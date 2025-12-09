@@ -1,0 +1,14 @@
+{
+  "id": "cf515b99-e139-48f8-9878-7950fa352d1e",
+  "name": "Aggregate the responses",
+  "type": "n8n-nodes-base.aggregate",
+  "position": [
+    240,
+    -320
+  ],
+  "parameters": {
+    "options": {},
+    "aggregate": "aggregateAllItemData"
+  },
+  "typeVersion": 1
+}

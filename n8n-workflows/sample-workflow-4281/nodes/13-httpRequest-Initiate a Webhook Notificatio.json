@@ -1,0 +1,23 @@
+{
+  "id": "a93e59ab-f384-4b05-90f8-71b305a3bfb7",
+  "name": "Initiate a Webhook Notification for the Structured Data",
+  "type": "n8n-nodes-base.httpRequest",
+  "position": [
+    460,
+    -120
+  ],
+  "parameters": {
+    "url": "https://webhook.site/7b5380a0-0544-48dc-be43-0116cb2d52c2",
+    "options": {},
+    "sendBody": true,
+    "bodyParameters": {
+      "parameters": [
+        {
+          "name": "summary",
+          "value": "={{ $json.data }}"
+        }
+      ]
+    }
+  },
+  "typeVersion": 4.2
+}

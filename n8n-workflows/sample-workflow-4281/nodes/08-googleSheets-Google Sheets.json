@@ -1,0 +1,57 @@
+{
+  "id": "d1b44002-2a50-4c0c-bf55-bf57a994bd2b",
+  "name": "Google Sheets",
+  "type": "n8n-nodes-base.googleSheets",
+  "position": [
+    460,
+    -520
+  ],
+  "parameters": {
+    "columns": {
+      "value": {
+        "data": "={{ $json.data }}"
+      },
+      "schema": [
+        {
+          "id": "data",
+          "type": "string",
+          "display": true,
+          "removed": false,
+          "required": false,
+          "displayName": "data",
+          "defaultMatch": false,
+          "canBeUsedToMatch": true
+        }
+      ],
+      "mappingMode": "defineBelow",
+      "matchingColumns": [
+        "data"
+      ],
+      "attemptToConvertTypes": false,
+      "convertFieldsToString": false
+    },
+    "options": {},
+    "operation": "appendOrUpdate",
+    "sheetName": {
+      "__rl": true,
+      "mode": "list",
+      "value": "gid=0",
+      "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1DGx_-sZ59wZlrhQRfj-qyMFMF6Z1IxpJrSNHD8rTZR8/edit#gid=0",
+      "cachedResultName": "Sheet1"
+    },
+    "documentId": {
+      "__rl": true,
+      "mode": "list",
+      "value": "1DGx_-sZ59wZlrhQRfj-qyMFMF6Z1IxpJrSNHD8rTZR8",
+      "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1DGx_-sZ59wZlrhQRfj-qyMFMF6Z1IxpJrSNHD8rTZR8/edit?usp=drivesdk",
+      "cachedResultName": "Real-estate data"
+    }
+  },
+  "credentials": {
+    "googleSheetsOAuth2Api": {
+      "id": "Zjoxh2BUZ6VXGQhA",
+      "name": "Google Sheets account"
+    }
+  },
+  "typeVersion": 4.5
+}

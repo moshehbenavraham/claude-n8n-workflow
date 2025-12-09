@@ -1,0 +1,16 @@
+{
+  "id": "a2f0de15-7d1d-42bb-aa22-1a3bd359ead5",
+  "name": "Sticky Note5",
+  "type": "n8n-nodes-base.stickyNote",
+  "position": [
+    -1720,
+    -1100
+  ],
+  "parameters": {
+    "color": 7,
+    "width": 400,
+    "height": 400,
+    "content": "## Logo\n\n\n![logo](https://images.seeklogo.com/logo-png/43/1/brightdata-logo-png_seeklogo-439974.png)\n"
+  },
+  "typeVersion": 1
+}

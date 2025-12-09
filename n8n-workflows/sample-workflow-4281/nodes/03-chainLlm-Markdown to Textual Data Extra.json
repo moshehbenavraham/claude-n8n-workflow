@@ -1,0 +1,21 @@
+{
+  "id": "2b0c3867-3c8d-4dc2-b9e9-fc9f074efaea",
+  "name": "Markdown to Textual Data Extractor",
+  "type": "@n8n/n8n-nodes-langchain.chainLlm",
+  "position": [
+    -1040,
+    -210
+  ],
+  "parameters": {
+    "text": "=You need to analyze the below markdown and convert to textual data. Please do not output with your own thoughts. Make sure to output with textual data only with no links, scripts, css etc.\n\n{{ $json.data }}",
+    "messages": {
+      "messageValues": [
+        {
+          "message": "You are a markdown expert"
+        }
+      ]
+    },
+    "promptType": "define"
+  },
+  "typeVersion": 1.6
+}

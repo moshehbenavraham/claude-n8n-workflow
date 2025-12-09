@@ -1,0 +1,29 @@
+{
+  "id": "196a1630-ca74-4fee-a7bf-0555a3693908",
+  "name": "Set URL and Bright Data Zone",
+  "type": "n8n-nodes-base.set",
+  "position": [
+    -1480,
+    -210
+  ],
+  "parameters": {
+    "options": {},
+    "assignments": {
+      "assignments": [
+        {
+          "id": "3aedba66-f447-4d7a-93c0-8158c5e795f9",
+          "name": "url",
+          "type": "string",
+          "value": "https://www.redfin.com/IL/Chicago/5814-W-Roscoe-St-60634/home/13464782"
+        },
+        {
+          "id": "4e7ee31d-da89-422f-8079-2ff2d357a0ba",
+          "name": "zone",
+          "type": "string",
+          "value": "web_unlocker1"
+        }
+      ]
+    }
+  },
+  "typeVersion": 3.4
+}

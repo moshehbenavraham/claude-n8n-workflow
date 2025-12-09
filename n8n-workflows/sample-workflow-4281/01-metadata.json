@@ -1,0 +1,71 @@
+{
+  "id": 4281,
+  "name": "Real Estate Intelligence Tracker with Bright Data & OpenAI",
+  "description": "### Who this is for\nThe Real Estate Intelligence Tracker is a powerful automated workflow designed for real estate analysts, investors, proptech startups, and market researchers who need to collect and analyze structured data from real estate listings across the web at scale.\n\nThis workflow is tailored for:\n\n- **Real Estate Analysts** - Tracking property prices, locations, and market trends\n\n- **Investment Firms** - Sourcing high-opportunity listings for portfolio decisions\n\n- **PropTech Developers** - Automating listing insights for SaaS platforms\n\n- **Market Researchers** - Extracting insights from competitive housing data\n\n- **Growth Teams** - Monitoring geographic property trends and pricing fluctuations\n\n### What problem is this workflow solving?\nCollecting structured real estate listing data from property websites is difficult due to bot protections and unstructured HTML content. Manual data collection is slow and error-prone, and traditional scrapers often get blocked or miss context.\n\nThis workflow solves:\n\n- Automated bypass of anti-bot protection using Bright Data Web Unlocker\n\n- Conversion of unstructured HTML content into clean text using a Markdown-to-text LLM pipeline\n\n- Structured extraction of key listing data like price, location, property type, and features using OpenAI\n\n- Aggregation and delivery of insights to Google Sheets, local storage, and webhook-based alerts\n\n### What this workflow does\n\n**Convert to Text**: Transforms scraped HTML/markdown into clean text using a Basic LLM Chain\n\n**Structured Data Extraction**: Uses OpenAI GPT-4o with the Information Extractor node to parse property attributes (price, address, area, type, etc.)\n\n**Aggregate & Merge**: Combines data from multiple pages or listings into a cohesive structure\n\n**Outbound Data Handling**:\n\n- **Google Sheets** \u2013 Appends the structured real estate data for further analysis\n\n- **Save to Disk** \u2013 Persists structured JSON/text data locally\n\n- **Webhook Notification** \u2013 Sends data alerts or summaries to any third-party platform\n\n### Pre-conditions\n\n1. You need to have a [Bright Data](https://brightdata.com/) account and do the necessary setup as mentioned in the \"Setup\" section below.\n2. You need to have an OpenAI Account.\n\n### Setup\n- Sign up at [Bright Data](https://brightdata.com/).\n- Navigate to Proxies & Scraping and create a new Web Unlocker zone by selecting Web Unlocker API under Scraping Solutions.\n- In n8n, configure the Header Auth account under Credentials (Generic Auth Type: Header Authentication).\n![Header Authentication.png](fileId:1354)\nThe Value field should be set with the\n**Bearer XXXXXXXXXXXXXX**. The XXXXXXXXXXXXXX should be replaced by the Web Unlocker Token.\n- In n8n, Configure the Google Sheet Credentials with your own account. Follow this documentation - [Set Google Sheet Credential](https://docs.n8n.io/integrations/builtin/credentials/google/)\n- In n8n, configure the OpenAi account credentials.\n- Ensure the URL and Bright Data zone name are correctly set in the **Set URL, Filename and Bright Data Zone** node.\n- Set the desired local path in the **Write a file** to disk node to save the responses.\n\n### How to customize this workflow to your needs\n\n**Target Multiple Sites or Locations**\n\n- Update the Bright Data URL node dynamically with a list of regional real estate websites\n\n- Loop through different city/state filter URLs\n\n**Customize Extracted Fields**\n\nModify the Information Extractor prompt to extract fields like:\n\n- Property size, number of bedrooms/bathrooms\n\n- Days on market\n\n- Nearby amenities or schools\n\n- Agent contact details\n\n**Integrate with More Destinations**\n\n- Add nodes to export data to Notion, Airtable, HubSpot, or your custom database\n\n- Generate automated reports using PDF generators and email them\n\n**Data Quality and Logging**\n\n- Add validation checks (e.g., missing price or address)\n\n- Save intermediate files (markdown, raw HTML, JSON output) to disk for audit purposes\n\n\n",
+  "createdAt": "2025-05-21T13:33:31.376Z",
+  "views": 10028,
+  "totalViews": 10028,
+  "status": "published",
+  "user": {
+    "name": "Ranjan Dailata",
+    "username": "ranjancse",
+    "bio": "A Professional based out of India specialized in handling AI-powered automations. Contact me at ranjancse@gmail.com ",
+    "verified": true,
+    "links": [
+      "https://www.linkedin.com/in/ranjan-dailata/"
+    ],
+    "avatar": "https://gravatar.com/avatar/7b74fe44a7ad32db7c783b972deb5848a4b1f043377bce4039737ed66da8305f?r=pg&d=retro&size=200"
+  },
+  "categories": [
+    {
+      "id": 32,
+      "name": "Market Research"
+    },
+    {
+      "id": 49,
+      "name": "AI Summarization"
+    }
+  ],
+  "workflowInfo": {
+    "nodeCount": 19,
+    "nodeTypes": {
+      "n8n-nodes-base.set": {
+        "count": 1
+      },
+      "n8n-nodes-base.merge": {
+        "count": 1
+      },
+      "n8n-nodes-base.function": {
+        "count": 1
+      },
+      "n8n-nodes-base.aggregate": {
+        "count": 1
+      },
+      "n8n-nodes-base.stickyNote": {
+        "count": 4
+      },
+      "n8n-nodes-base.httpRequest": {
+        "count": 2
+      },
+      "n8n-nodes-base.googleSheets": {
+        "count": 1
+      },
+      "n8n-nodes-base.manualTrigger": {
+        "count": 1
+      },
+      "n8n-nodes-base.readWriteFile": {
+        "count": 1
+      },
+      "@n8n/n8n-nodes-langchain.chainLlm": {
+        "count": 1
+      },
+      "@n8n/n8n-nodes-langchain.lmChatOpenAi": {
+        "count": 3
+      },
+      "@n8n/n8n-nodes-langchain.informationExtractor": {
+        "count": 2
+      }
+    }
+  },
+  "lastUpdatedBy": 29
+}

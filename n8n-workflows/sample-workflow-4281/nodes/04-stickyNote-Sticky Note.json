@@ -1,0 +1,15 @@
+{
+  "id": "52dc4add-92e6-4118-948e-63c4a706a017",
+  "name": "Sticky Note",
+  "type": "n8n-nodes-base.stickyNote",
+  "position": [
+    -1720,
+    -640
+  ],
+  "parameters": {
+    "width": 400,
+    "height": 320,
+    "content": "## Note\n\nDeals with the Realestate data extraction by utilizing the Bright Data Web Unlocker Product.\n\n**Please make sure to set the Real-estate website URL with the Bright Data zone name. Also update the Webhook Notification URL of your interest**"
+  },
+  "typeVersion": 1
+}

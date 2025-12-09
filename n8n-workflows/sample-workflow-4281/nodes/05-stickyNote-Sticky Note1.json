@@ -1,0 +1,15 @@
+{
+  "id": "0b64779e-d4c6-4c67-8b67-fcddac760db6",
+  "name": "Sticky Note1",
+  "type": "n8n-nodes-base.stickyNote",
+  "position": [
+    -1260,
+    -640
+  ],
+  "parameters": {
+    "width": 480,
+    "height": 320,
+    "content": "## LLM Usages\n\nOpenAI GPT 4o model is being used.\n\nBasic LLM Chain for converting the markdown to textual content.\n\nInformation Extractor is being used for the structured data extraction."
+  },
+  "typeVersion": 1
+}

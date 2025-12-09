@@ -1,0 +1,71 @@
+# ===========================================
+# n8n Workflow Analyzer - Git Ignore
+# ===========================================
+
+# -------------------------------------------
+# archive/ - Processed workflows (re-downloadable)
+# Keep: README only
+# -------------------------------------------
+archive/*
+!archive/README_archive.md
+
+# -------------------------------------------
+# logs/ - Script execution logs (regenerated)
+# Keep: README only
+# -------------------------------------------
+logs/*
+!logs/README_logs.md
+
+# -------------------------------------------
+# search_results/ - API search results (regenerated)
+# Keep: README and sample-* files
+# -------------------------------------------
+search_results/*
+!search_results/README_search-results.md
+!search_results/sample-*
+
+# -------------------------------------------
+# n8n-workflows/ - Downloaded workflows (re-downloadable)
+# Keep: README and sample-* files
+# -------------------------------------------
+n8n-workflows/*
+!n8n-workflows/README_n8n-workflows.md
+!n8n-workflows/sample-*
+!n8n-workflows/sample-*/
+
+# -------------------------------------------
+# analysis/ - Generated analysis reports
+# Keep: README and sample-* files
+# -------------------------------------------
+analysis/*
+!analysis/README_analysis.md
+!analysis/sample-*
+
+# -------------------------------------------
+# docs/ - Generated consolidated solutions
+# Keep: README, reference docs, and sample-* files
+# -------------------------------------------
+docs/consolidated-solution.md
+
+# -------------------------------------------
+# OS and editor files
+# -------------------------------------------
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# -------------------------------------------
+# Node.js (if any tooling added later)
+# -------------------------------------------
+node_modules/
+package-lock.json
+
+# -------------------------------------------
+# Python (if any tooling added later)
+# -------------------------------------------
+__pycache__/
+*.pyc
+.venv/
+venv/

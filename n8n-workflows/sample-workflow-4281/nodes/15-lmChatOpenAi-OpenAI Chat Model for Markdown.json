@@ -1,0 +1,24 @@
+{
+  "id": "6ecb7f50-2d16-43e2-b999-98492ec81668",
+  "name": "OpenAI Chat Model for Markdown to Textual",
+  "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+  "position": [
+    -960,
+    20
+  ],
+  "parameters": {
+    "model": {
+      "__rl": true,
+      "mode": "list",
+      "value": "gpt-4o-mini"
+    },
+    "options": {}
+  },
+  "credentials": {
+    "openAiApi": {
+      "id": "vPKynKbDzJ5ZU4cU",
+      "name": "OpenAi account"
+    }
+  },
+  "typeVersion": 1.2
+}

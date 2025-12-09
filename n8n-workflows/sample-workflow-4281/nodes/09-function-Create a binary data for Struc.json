@@ -1,0 +1,13 @@
+{
+  "id": "9f203292-0806-48a9-a409-f64706b1b0b6",
+  "name": "Create a binary data for Structured Data Extract",
+  "type": "n8n-nodes-base.function",
+  "position": [
+    460,
+    -320
+  ],
+  "parameters": {
+    "functionCode": "items[0].binary = {\n  data: {\n    data: new Buffer(JSON.stringify(items[0].json, null, 2)).toString('base64')\n  }\n};\nreturn items;"
+  },
+  "typeVersion": 1
+}

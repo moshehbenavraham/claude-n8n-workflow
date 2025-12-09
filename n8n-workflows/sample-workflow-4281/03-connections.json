@@ -1,0 +1,149 @@
+{
+  "Merge the responses": {
+    "main": [
+      [
+        {
+          "node": "Aggregate the responses",
+          "type": "main",
+          "index": 0
+        }
+      ]
+    ]
+  },
+  "Review Data Extractor": {
+    "main": [
+      [
+        {
+          "node": "Merge the responses",
+          "type": "main",
+          "index": 0
+        }
+      ]
+    ]
+  },
+  "Aggregate the responses": {
+    "main": [
+      [
+        {
+          "node": "Google Sheets",
+          "type": "main",
+          "index": 0
+        },
+        {
+          "node": "Initiate a Webhook Notification for the Structured Data",
+          "type": "main",
+          "index": 0
+        },
+        {
+          "node": "Create a binary data for Structured Data Extract",
+          "type": "main",
+          "index": 0
+        }
+      ]
+    ]
+  },
+  "Structured Data Extractor": {
+    "main": [
+      [
+        {
+          "node": "Merge the responses",
+          "type": "main",
+          "index": 1
+        }
+      ]
+    ]
+  },
+  "Set URL and Bright Data Zone": {
+    "main": [
+      [
+        {
+          "node": "Perform Bright Data Web Request",
+          "type": "main",
+          "index": 0
+        }
+      ]
+    ]
+  },
+  "Perform Bright Data Web Request": {
+    "main": [
+      [
+        {
+          "node": "Markdown to Textual Data Extractor",
+          "type": "main",
+          "index": 0
+        }
+      ]
+    ]
+  },
+  "When clicking \u2018Test workflow\u2019": {
+    "main": [
+      [
+        {
+          "node": "Set URL and Bright Data Zone",
+          "type": "main",
+          "index": 0
+        }
+      ]
+    ]
+  },
+  "Markdown to Textual Data Extractor": {
+    "main": [
+      [
+        {
+          "node": "Review Data Extractor",
+          "type": "main",
+          "index": 0
+        },
+        {
+          "node": "Structured Data Extractor",
+          "type": "main",
+          "index": 0
+        }
+      ]
+    ]
+  },
+  "OpenAI Chat Model for Structured Data": {
+    "ai_languageModel": [
+      [
+        {
+          "node": "Structured Data Extractor",
+          "type": "ai_languageModel",
+          "index": 0
+        }
+      ]
+    ]
+  },
+  "OpenAI Chat Model for Markdown to Textual": {
+    "ai_languageModel": [
+      [
+        {
+          "node": "Markdown to Textual Data Extractor",
+          "type": "ai_languageModel",
+          "index": 0
+        }
+      ]
+    ]
+  },
+  "OpenAI Chat Model for Review Data Extractor": {
+    "ai_languageModel": [
+      [
+        {
+          "node": "Review Data Extractor",
+          "type": "ai_languageModel",
+          "index": 0
+        }
+      ]
+    ]
+  },
+  "Create a binary data for Structured Data Extract": {
+    "main": [
+      [
+        {
+          "node": "Write the structured content to disk",
+          "type": "main",
+          "index": 0
+        }
+      ]
+    ]
+  }
+}

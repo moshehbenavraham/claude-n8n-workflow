@@ -1,0 +1,16 @@
+{
+  "id": "fad15f6e-0ccb-4810-94d6-bc4f42527071",
+  "name": "Sticky Note4",
+  "type": "n8n-nodes-base.stickyNote",
+  "position": [
+    -60,
+    -640
+  ],
+  "parameters": {
+    "color": 3,
+    "width": 1000,
+    "height": 760,
+    "content": "## Outbound Data Push\nOutbound data handling by merging, aggregating the data and pushing the same to multiple sources such as Google Sheets, Save to Disk, Webhook Notification"
+  },
+  "typeVersion": 1
+}

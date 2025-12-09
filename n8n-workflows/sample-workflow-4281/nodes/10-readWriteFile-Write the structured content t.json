@@ -1,0 +1,15 @@
+{
+  "id": "9a64deed-1f56-4e10-9e11-31bfcfd6abac",
+  "name": "Write the structured content to disk",
+  "type": "n8n-nodes-base.readWriteFile",
+  "position": [
+    680,
+    -320
+  ],
+  "parameters": {
+    "options": {},
+    "fileName": "=d:\\Realestate-StructuredData.json",
+    "operation": "write"
+  },
+  "typeVersion": 1
+}

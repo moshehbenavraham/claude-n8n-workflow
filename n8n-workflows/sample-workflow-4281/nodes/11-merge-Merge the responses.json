@@ -1,0 +1,11 @@
+{
+  "id": "83e7f6d7-216c-496b-9011-47d0b95561ba",
+  "name": "Merge the responses",
+  "type": "n8n-nodes-base.merge",
+  "position": [
+    20,
+    -320
+  ],
+  "parameters": {},
+  "typeVersion": 3.1
+}

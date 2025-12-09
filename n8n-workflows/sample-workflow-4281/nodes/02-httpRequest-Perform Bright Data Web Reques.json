@@ -1,0 +1,50 @@
+{
+  "id": "80131d8e-b359-4b2a-8291-faf9c4e8892f",
+  "name": "Perform Bright Data Web Request",
+  "type": "n8n-nodes-base.httpRequest",
+  "position": [
+    -1260,
+    -210
+  ],
+  "parameters": {
+    "url": "https://api.brightdata.com/request",
+    "method": "POST",
+    "options": {},
+    "sendBody": true,
+    "sendHeaders": true,
+    "authentication": "genericCredentialType",
+    "bodyParameters": {
+      "parameters": [
+        {
+          "name": "zone",
+          "value": "={{ $json.zone }}"
+        },
+        {
+          "name": "url",
+          "value": "={{ $json.url }}"
+        },
+        {
+          "name": "format",
+          "value": "raw"
+        },
+        {
+          "name": "data_format",
+          "value": "markdown"
+        }
+      ]
+    },
+    "genericAuthType": "httpHeaderAuth",
+    "headerParameters": {
+      "parameters": [
+        {}
+      ]
+    }
+  },
+  "credentials": {
+    "httpHeaderAuth": {
+      "id": "kdbqXuxIR8qIxF7y",
+      "name": "Header Auth account"
+    }
+  },
+  "typeVersion": 4.2
+}

@@ -1,0 +1,24 @@
+{
+  "id": "4ce2647e-9796-4bfd-8dc2-0aa7f7466824",
+  "name": "OpenAI Chat Model for Review Data Extractor",
+  "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+  "position": [
+    -420,
+    -340
+  ],
+  "parameters": {
+    "model": {
+      "__rl": true,
+      "mode": "list",
+      "value": "gpt-4o-mini"
+    },
+    "options": {}
+  },
+  "credentials": {
+    "openAiApi": {
+      "id": "vPKynKbDzJ5ZU4cU",
+      "name": "OpenAi account"
+    }
+  },
+  "typeVersion": 1.2
+}

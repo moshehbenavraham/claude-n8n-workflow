@@ -1,0 +1,16 @@
+{
+  "id": "9d4eaebe-eb56-4d57-abe6-7d2beaff5af0",
+  "name": "Review Data Extractor",
+  "type": "@n8n/n8n-nodes-langchain.informationExtractor",
+  "position": [
+    -500,
+    -560
+  ],
+  "parameters": {
+    "text": "=Extract all the reviews from the provided content\n\n {{ $json.text }}",
+    "options": {},
+    "schemaType": "fromJson",
+    "jsonSchemaExample": "[{\n      \"@type\": \"Review\",\n      \"datePublished\": \"2025-04-29\",\n      \"review\": \"Incredible support and empathy. Shemi truly listened and understood my concerns. Outstanding service!\",\n      \"rating\": {\n        \"@type\": \"Rating\",\n        \"value\": \"5\"\n      }\n    }]"
+  },
+  "typeVersion": 1
+}

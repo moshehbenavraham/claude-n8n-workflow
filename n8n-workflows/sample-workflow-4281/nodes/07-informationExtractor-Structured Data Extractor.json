@@ -1,0 +1,16 @@
+{
+  "id": "84473d2e-4243-402a-98b3-b80179b9a5ae",
+  "name": "Structured Data Extractor",
+  "type": "@n8n/n8n-nodes-langchain.informationExtractor",
+  "position": [
+    -500,
+    -100
+  ],
+  "parameters": {
+    "text": "=Extract structured data from the provided content\n\n {{ $json.text }}",
+    "options": {},
+    "schemaType": "fromJson",
+    "jsonSchemaExample": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Offer\",\n  \"itemOffered\": {\n    \"@type\": \"SingleFamilyResidence\",\n    \"name\": \"Luxury 4BHK Villa with Pool in Herzliya\",\n    \"description\": \"A stunning 4-bedroom villa featuring private pool, garden, smart-home automation, and ocean views. Located in one of Herzliya\u2019s premium neighborhoods.\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"streetAddress\": \"456 Seaside Road\",\n      \"addressLocality\": \"Herzliya\",\n      \"postalCode\": \"4685105\",\n      \"addressCountry\": \"IL\"\n    },\n    \"floorSize\": {\n      \"@type\": \"QuantitativeValue\",\n      \"value\": 300,\n      \"unitCode\": \"MTK\"\n    },\n    \"numberOfRooms\": 7,\n    \"numberOfBedrooms\": 4,\n    \"numberOfBathroomsTotal\": 3,\n    \"amenityFeature\": [\n      {\n        \"@type\": \"LocationFeatureSpecification\",\n        \"name\": \"Swimming Pool\",\n        \"value\": true\n      },\n      {\n        \"@type\": \"LocationFeatureSpecification\",\n        \"name\": \"Smart Home Enabled\",\n        \"value\": true\n      },\n      {\n        \"@type\": \"LocationFeatureSpecification\",\n        \"name\": \"Sea View\",\n        \"value\": true\n      }\n    ],\n    \"image\": [\n      \"https://brightrealty.com/listings/villa1_front.jpg\",\n      \"https://brightrealty.com/listings/villa1_pool.jpg\",\n      \"https://brightrealty.com/listings/villa1_living.jpg\"\n    ],\n    \"petsAllowed\": \"Yes\",\n    \"url\": \"https://brightrealty.com/properties/luxury-4bhk-villa-herzliya\"\n  },\n  \"priceCurrency\": \"ILS\",\n  \"price\": \"8500000\",\n  \"availability\": \"https://schema.org/InStock\",\n  \"seller\": {\n    \"@type\": \"RealEstateAgent\",\n    \"name\": \"Bright Realty Services\",\n    \"url\": \"https://brightrealty.com\",\n    \"telephone\": \"+972-3-1234567\",\n    \"email\": \"sales@brightrealty.com\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"streetAddress\": \"123 Main St\",\n      \"addressLocality\": \"Tel Aviv\",\n      \"postalCode\": \"6100000\",\n      \"addressCountry\": \"IL\"\n    }\n  }\n}"
+  },
+  "typeVersion": 1
+}

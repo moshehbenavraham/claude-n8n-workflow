@@ -1,0 +1,11 @@
+{
+  "id": "7dc6c3d9-55e0-4f32-b00d-96c92482eca8",
+  "name": "When clicking \u2018Test workflow\u2019",
+  "type": "n8n-nodes-base.manualTrigger",
+  "position": [
+    -1700,
+    -210
+  ],
+  "parameters": {},
+  "typeVersion": 1
+}
