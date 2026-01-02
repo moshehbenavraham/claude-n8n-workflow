@@ -289,11 +289,17 @@ def split_workflow(
         }
 
     # Extract the main workflow object
+    # Handle both n8n export format (workflow.workflow) and API format (workflow)
     workflow = data.get("workflow", data)
     inner_workflow = workflow.get("workflow", {})
 
-    # 1. Extract metadata
-    metadata = extract_metadata(workflow)
+    # If inner_workflow is empty, the workflow object itself contains the nodes/connections
+    # This happens with API downloads where structure is {workflow: {meta, nodes, connections}}
+    if not inner_workflow:
+        inner_workflow = workflow
+
+    # 1. Extract metadata (from top-level data for API format, or workflow for export format)
+    metadata = extract_metadata(data) or extract_metadata(workflow)
     if metadata:
         write_json(workflow_output_dir / "01-metadata.json", metadata)
         file_count += 1
@@ -326,13 +332,14 @@ def split_workflow(
             node_file_count = split_nodes_to_files(nodes, nodes_dir)
             file_count += node_file_count
 
-    # 5. Handle template nodes
-    if handle_template_nodes(workflow, nodes, workflow_output_dir):
+    # 5. Handle template nodes (at top level for API format, in workflow for export format)
+    if handle_template_nodes(data, nodes, workflow_output_dir):
         file_count += 1
 
-    # 6. Save image URL if present
-    if workflow.get("image"):
-        image_data = {"image": workflow.get("image")}
+    # 6. Save image URL if present (at top level for API format)
+    image_url = data.get("image") or workflow.get("image")
+    if image_url:
+        image_data = {"image": image_url}
         write_json(workflow_output_dir / "06-image.json", image_data)
         file_count += 1
 

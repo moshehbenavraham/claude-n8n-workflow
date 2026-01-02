@@ -159,9 +159,10 @@ def download_workflow(workflow_id: int, output_dir: Path) -> Path | None:
     if data is None:
         return None
 
-    # Extract workflow info for filename
-    workflow_data = data.get("workflow", {})
-    workflow_name = workflow_data.get("name", "")
+    # Extract workflow name for filename
+    # API response structure: {workflow: {id, name, ..., workflow: {...}}}
+    outer_workflow = data.get("workflow", {})
+    workflow_name = outer_workflow.get("name", "") or data.get("name", "")
     sanitized_name = sanitize_filename(workflow_name) if workflow_name else "workflow"
 
     # Build filename: ID-sanitized-name.json
@@ -171,7 +172,7 @@ def download_workflow(workflow_id: int, output_dir: Path) -> Path | None:
     # Ensure output directory exists
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    # Write to temp file first, then move (atomic write pattern)
+    # Write full API response to preserve structure for split.py compatibility
     try:
         with tempfile.NamedTemporaryFile(
             mode="w",
@@ -180,7 +181,7 @@ def download_workflow(workflow_id: int, output_dir: Path) -> Path | None:
             delete=False,
             encoding="utf-8",
         ) as tmp_file:
-            json.dump(workflow_data, tmp_file, indent=2)
+            json.dump(data, tmp_file, indent=2)
             tmp_path = Path(tmp_file.name)
 
         # Validate JSON by re-reading
@@ -226,11 +227,12 @@ def read_ids_from_file(file_path: Path) -> list[str]:
     return ids
 
 
-def run_split_script(downloaded_files: list[Path]) -> bool:
-    """Run split-workflows.sh on downloaded files.
+def run_split_script(downloaded_files: list[Path], output_dir: Path) -> bool:
+    """Run split.py on downloaded files.
 
     Args:
         downloaded_files: List of paths to downloaded workflow JSON files.
+        output_dir: Output directory for split files.
 
     Returns:
         True if split succeeded, False otherwise.
@@ -238,9 +240,9 @@ def run_split_script(downloaded_files: list[Path]) -> bool:
     if not downloaded_files:
         return True
 
-    # Find split script relative to this script
+    # Find split.py script relative to this script
     script_dir = Path(__file__).parent
-    split_script = script_dir / "split-workflows.sh"
+    split_script = script_dir / "split.py"
 
     if not split_script.exists():
         err_console.print(f"[red]Error: Split script not found: {split_script}[/red]")
@@ -252,7 +254,7 @@ def run_split_script(downloaded_files: list[Path]) -> bool:
 
         try:
             result = subprocess.run(
-                ["bash", str(split_script), str(file_path)],
+                [sys.executable, str(split_script), str(file_path), "-o", str(output_dir)],
                 capture_output=True,
                 text=True,
                 check=False,
@@ -366,7 +368,7 @@ def main(
     # Run split if requested
     if split and downloaded_files:
         console.print("\n[bold]Running split script...[/bold]")
-        run_split_script(downloaded_files)
+        run_split_script(downloaded_files, output_dir)
 
     # Exit code: 0 if all succeeded, 1 if any failed
     if fail_count > 0:
