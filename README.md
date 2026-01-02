@@ -7,6 +7,10 @@ Claude Code toolkit for finding, downloading, analyzing and consolidating n8n wo
 ### Python CLI (recommended)
 
 ```bash
+# Setup (one-time)
+python3 -m venv .venv && source .venv/bin/activate
+pip install -r scripts/requirements.txt
+
 # Search n8n templates
 python scripts/search.py search "real estate"
 
@@ -28,6 +32,15 @@ python scripts/search.py search "chatbot" --category AI --rows 20 --page 2
 # Output formats: table (default), json, ids, compact
 python scripts/search.py search "automation" --json
 python scripts/search.py search "automation" --ids --save
+
+# Download workflow by ID
+python scripts/download.py 5428
+
+# Download and split into chunks
+python scripts/download.py --split 5428
+
+# Split existing workflow files
+python scripts/split.py
 ```
 
 ### Bash Scripts (legacy)
