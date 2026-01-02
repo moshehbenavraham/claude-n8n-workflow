@@ -4,6 +4,34 @@ Claude Code toolkit for finding, downloading, analyzing and consolidating n8n wo
 
 ## Quick Start
 
+### Python CLI (recommended)
+
+```bash
+# Search n8n templates
+python scripts/search.py search "real estate"
+
+# List available categories
+python scripts/search.py categories
+
+# List curated collections
+python scripts/search.py collections
+
+# Get collection details
+python scripts/search.py collection 8
+
+# Show API statistics
+python scripts/search.py stats
+
+# Advanced search with filters and pagination
+python scripts/search.py search "chatbot" --category AI --rows 20 --page 2
+
+# Output formats: table (default), json, ids, compact
+python scripts/search.py search "automation" --json
+python scripts/search.py search "automation" --ids --save
+```
+
+### Bash Scripts (legacy)
+
 ```bash
 # Search n8n templates
 ./scripts/search-workflows.sh "search query"
@@ -13,7 +41,11 @@ Claude Code toolkit for finding, downloading, analyzing and consolidating n8n wo
 
 # Split into analyzable chunks
 ./scripts/split-workflows.sh
+```
 
+### Analysis Workflow
+
+```bash
 # Analyze (triggers n8n-workflow-analyzer skill)
 # "Analyze the workflow in n8n-workflows/<folder-name>/"
 

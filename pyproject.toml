@@ -1,6 +1,6 @@
 [project]
 name = "n8n-workflow-analyzer"
-version = "0.1.1"
+version = "0.1.2"
 description = "Python utilities for n8n workflow analysis"
 requires-python = ">=3.11"
 
