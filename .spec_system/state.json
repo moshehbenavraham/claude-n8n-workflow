@@ -13,7 +13,8 @@
   },
   "completed_sessions": [
     "phase00-session01-project-setup",
-    "phase00-session02-search-script"
+    "phase00-session02-search-script",
+    "phase00-session03-download-script"
   ],
   "next_session_history": [
     {
@@ -24,6 +25,11 @@
     {
       "date": "2026-01-02",
       "session": "phase00-session02-search-script",
+      "status": "completed"
+    },
+    {
+      "date": "2026-01-02",
+      "session": "phase00-session03-download-script",
       "status": "completed"
     }
   ]
