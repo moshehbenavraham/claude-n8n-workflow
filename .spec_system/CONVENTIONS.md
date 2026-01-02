@@ -88,10 +88,20 @@
 |----------|------|--------|
 | Formatter | ruff format | pyproject.toml |
 | Linter | ruff check | pyproject.toml |
-| Type Safety | mypy (optional) | - |
+| Type Safety | mypy | pyproject.toml |
 | Testing | pytest | - |
-| Observability | logging.sh | scripts/logging.sh |
-| Git Hooks | not configured | - |
+| Observability | logging.py | scripts/utils/logging.py |
+| Git Hooks | pre-commit | .pre-commit-config.yaml |
+
+## CI/CD
+
+| Bundle | Status | Workflow |
+|--------|--------|----------|
+| Code Quality | configured | .github/workflows/quality.yml |
+| Build & Test | not configured | - |
+| Security | not configured | - |
+| Integration | not configured | - |
+| Operations | not configured | - |
 
 ## Python-Specific
 
