@@ -54,7 +54,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install mypy click rich
+          pip install mypy click rich types-requests
 
       - name: Run mypy
         run: mypy scripts/ --config-file pyproject.toml
