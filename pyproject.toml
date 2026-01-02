@@ -1,0 +1,28 @@
+[project]
+name = "n8n-workflow-analyzer"
+version = "0.1.1"
+description = "Python utilities for n8n workflow analysis"
+requires-python = ">=3.11"
+
+[tool.ruff]
+target-version = "py311"
+line-length = 100
+src = ["scripts"]
+
+[tool.ruff.lint]
+select = [
+    "E",      # pycodestyle errors
+    "W",      # pycodestyle warnings
+    "F",      # Pyflakes
+    "I",      # isort
+    "B",      # flake8-bugbear
+    "UP",     # pyupgrade
+]
+ignore = []
+
+[tool.ruff.lint.isort]
+known-first-party = ["scripts"]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"

@@ -1,5 +1,66 @@
 # Scripts
 
+## Python Setup
+
+The Python scripts require Python 3.11+ with the following dependencies.
+
+### Setup
+
+```bash
+# Create virtual environment (from project root)
+python3 -m venv .venv
+
+# Activate virtual environment
+source .venv/bin/activate  # Linux/macOS
+# or: .venv\Scripts\activate  # Windows
+
+# Install dependencies
+pip install -r scripts/requirements.txt
+
+# Verify installation
+python -c "from scripts.utils import get_logger; print('OK')"
+```
+
+### Development
+
+```bash
+# Install ruff for linting/formatting
+pip install ruff
+
+# Run linter
+ruff check scripts/
+
+# Run formatter
+ruff format scripts/
+```
+
+### Utilities
+
+The `scripts/utils/` package provides shared functionality:
+
+- **logging.py**: Structured logging with colored output (mirrors logging.sh)
+- **cli.py**: Shared click decorators for common CLI options
+- **paths.py**: Cross-platform path utilities using pathlib
+
+Example usage:
+
+```python
+from scripts.utils import get_logger, common_options
+import click
+
+logger = get_logger(verbose=True)
+logger.info("Processing started")
+
+@click.command()
+@common_options
+def my_script(verbose: bool, dry_run: bool):
+    logger = get_logger(verbose=verbose)
+    if dry_run:
+        logger.info("Dry run mode - no changes will be made")
+```
+
+---
+
 ## search-workflows.sh
 
 Searches and explores n8n workflow templates using the public API.
