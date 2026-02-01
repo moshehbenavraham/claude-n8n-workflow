@@ -18,6 +18,7 @@ Usage:
 import json
 import sys
 from pathlib import Path
+from typing import Any
 
 import click
 from rich.console import Console
@@ -57,7 +58,7 @@ def sanitize_filename(name: str) -> str:
     return result
 
 
-def count_formatted_lines(data: dict | list) -> int:
+def count_formatted_lines(data: dict[str, Any] | list[Any]) -> int:
     """Count lines when JSON data is formatted with indent=2.
 
     Args:
@@ -69,7 +70,7 @@ def count_formatted_lines(data: dict | list) -> int:
     return len(json.dumps(data, indent=2).split("\n"))
 
 
-def write_json(filepath: Path, data: dict | list, indent: int = 2) -> int:
+def write_json(filepath: Path, data: dict[str, Any] | list[Any], indent: int = 2) -> int:
     """Write JSON data to file with consistent formatting.
 
     Args:
@@ -101,7 +102,7 @@ def find_json_files(directory: Path) -> list[Path]:
     return sorted(directory.glob("*.json"))
 
 
-def extract_metadata(workflow: dict) -> dict:
+def extract_metadata(workflow: dict[str, Any]) -> dict[str, Any]:
     """Extract metadata fields from workflow.
 
     Args:
@@ -127,7 +128,7 @@ def extract_metadata(workflow: dict) -> dict:
     return metadata
 
 
-def extract_settings(inner_workflow: dict) -> dict:
+def extract_settings(inner_workflow: dict[str, Any]) -> dict[str, Any]:
     """Extract settings/meta fields from inner workflow.
 
     Args:
@@ -152,7 +153,7 @@ def extract_settings(inner_workflow: dict) -> dict:
     return settings
 
 
-def extract_connections(inner_workflow: dict) -> dict:
+def extract_connections(inner_workflow: dict[str, Any]) -> dict[str, Any]:
     """Extract connections from inner workflow.
 
     Args:
@@ -161,10 +162,11 @@ def extract_connections(inner_workflow: dict) -> dict:
     Returns:
         Connections dict.
     """
-    return inner_workflow.get("connections", {})
+    connections: dict[str, Any] = inner_workflow.get("connections", {})
+    return connections
 
 
-def extract_nodes(inner_workflow: dict) -> list:
+def extract_nodes(inner_workflow: dict[str, Any]) -> list[dict[str, Any]]:
     """Extract nodes array from inner workflow.
 
     Args:
@@ -173,10 +175,11 @@ def extract_nodes(inner_workflow: dict) -> list:
     Returns:
         List of node objects.
     """
-    return inner_workflow.get("nodes", [])
+    nodes: list[dict[str, Any]] = inner_workflow.get("nodes", [])
+    return nodes
 
 
-def split_nodes_to_files(nodes: list, nodes_dir: Path) -> int:
+def split_nodes_to_files(nodes: list[dict[str, Any]], nodes_dir: Path) -> int:
     """Split nodes into individual files in a nodes/ subdirectory.
 
     Creates individual files for each node plus an index file.
@@ -210,7 +213,9 @@ def split_nodes_to_files(nodes: list, nodes_dir: Path) -> int:
     return len(nodes) + 1  # nodes + index file
 
 
-def handle_template_nodes(workflow: dict, nodes: list, output_dir: Path) -> bool:
+def handle_template_nodes(
+    workflow: dict[str, Any], nodes: list[dict[str, Any]], output_dir: Path
+) -> bool:
     """Handle outer template nodes if they differ from inner nodes.
 
     Args:
@@ -232,7 +237,7 @@ def split_workflow(
     json_file: Path,
     output_dir: Path,
     threshold: int,
-) -> dict:
+) -> dict[str, Any]:
     """Split a single workflow JSON file.
 
     Args:

@@ -17,6 +17,7 @@ import sys
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
+from typing import Any
 from urllib.parse import quote
 
 import click
@@ -54,7 +55,7 @@ class Workflow:
     created_at: str = ""
 
     @classmethod
-    def from_api(cls, data: dict) -> "Workflow":
+    def from_api(cls, data: dict[str, Any]) -> "Workflow":
         """Create Workflow from API response data."""
         user = data.get("user") or {}
         return cls(
@@ -77,7 +78,7 @@ class Category:
     parent_name: str | None = None
 
     @classmethod
-    def from_api(cls, data: dict) -> "Category":
+    def from_api(cls, data: dict[str, Any]) -> "Category":
         """Create Category from API response data."""
         parent = data.get("parent")
         parent_name = parent.get("name") if parent else None
@@ -97,10 +98,10 @@ class Collection:
     name: str
     description: str
     workflow_count: int
-    workflows: list
+    workflows: list[dict[str, Any]]
 
     @classmethod
-    def from_api(cls, data: dict, detailed: bool = False) -> "Collection":
+    def from_api(cls, data: dict[str, Any], detailed: bool = False) -> "Collection":
         """Create Collection from API response data."""
         workflows = data.get("workflows", [])
         return cls(
@@ -112,7 +113,7 @@ class Collection:
         )
 
 
-def api_request(endpoint: str) -> dict:
+def api_request(endpoint: str) -> dict[str, Any]:
     """Make API request with error handling."""
     url = f"{API_BASE}{endpoint}"
 
@@ -130,7 +131,7 @@ def api_request(endpoint: str) -> dict:
             err_console.print(f"[red]Error: {error_msg}[/red]")
             sys.exit(1)
 
-        return data
+        return dict(data)
 
     except requests.exceptions.Timeout:
         err_console.print("[red]Error: API request timed out[/red]")
@@ -159,7 +160,7 @@ def truncate(text: str, max_len: int) -> str:
 
 
 def save_results(
-    data: dict,
+    data: dict[str, Any],
     query: str = "",
     category: str = "",
     apps: str = "",
@@ -201,7 +202,7 @@ def save_results(
 
 
 def output_table_search(
-    data: dict,
+    data: dict[str, Any],
     query: str,
     category: str,
     apps: str,
@@ -260,18 +261,18 @@ def output_table_search(
         console.print(f"\n[dim]{hint}[/dim]")
 
 
-def output_json(data: dict) -> None:
+def output_json(data: dict[str, Any]) -> None:
     """Output data as formatted JSON."""
     print(json.dumps(data, indent=2))
 
 
-def output_ids(workflows: list) -> None:
+def output_ids(workflows: list[dict[str, Any]]) -> None:
     """Output workflow IDs only (for piping)."""
     for wf in workflows:
         print(wf.get("id", ""))
 
 
-def output_compact(data: dict) -> None:
+def output_compact(data: dict[str, Any]) -> None:
     """Output in compact format."""
     total = data.get("totalWorkflows", 0)
     workflows = data.get("workflows", [])
@@ -284,7 +285,7 @@ def output_compact(data: dict) -> None:
         print(f"{w.id} | {w.name} | {format_number(w.total_views)} views")
 
 
-def output_table_categories(categories: list) -> None:
+def output_table_categories(categories: list[dict[str, Any]]) -> None:
     """Output categories in table format."""
     console.print("[bold]=== n8n Workflow Categories ===[/bold]\n")
 
@@ -304,7 +305,7 @@ def output_table_categories(categories: list) -> None:
     console.print(f"\n[dim]Total: {len(categories)} categories[/dim]")
 
 
-def output_table_collections(collections: list) -> None:
+def output_table_collections(collections: list[dict[str, Any]]) -> None:
     """Output collections in table format."""
     console.print("[bold]=== n8n Curated Collections ===[/bold]\n")
 
@@ -325,7 +326,7 @@ def output_table_collections(collections: list) -> None:
     console.print(f"\n[dim]Total: {len(collections)} collections[/dim]")
 
 
-def output_table_collection(data: dict) -> None:
+def output_table_collection(data: dict[str, Any]) -> None:
     """Output single collection details in table format."""
     col_data = data.get("collection", {})
     c = Collection.from_api(col_data, detailed=True)

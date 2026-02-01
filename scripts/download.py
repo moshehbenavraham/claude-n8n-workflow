@@ -18,6 +18,7 @@ import subprocess
 import sys
 import tempfile
 from pathlib import Path
+from typing import Any
 
 import click
 import requests
@@ -97,7 +98,7 @@ def sanitize_filename(name: str, max_length: int = 50) -> str:
     return safe or "workflow"
 
 
-def api_download(workflow_id: int) -> dict | None:
+def api_download(workflow_id: int) -> dict[str, Any] | None:
     """Download workflow data from API.
 
     Args:
@@ -122,7 +123,7 @@ def api_download(workflow_id: int) -> dict | None:
             err_console.print(f"[red]Error: {error_msg}[/red]")
             return None
 
-        return data
+        return dict(data)
 
     except requests.exceptions.Timeout:
         err_console.print(f"[red]Error: Request timed out for workflow {workflow_id}[/red]")

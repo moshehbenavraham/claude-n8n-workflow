@@ -1,0 +1,27 @@
+# Pre-commit hooks configuration
+# Run: uvx pre-commit install
+# Manual: uvx pre-commit run --all-files
+
+repos:
+  # Ruff - Fast Python linter and formatter
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.8.6
+    hooks:
+      # Formatter - runs first
+      - id: ruff-format
+        args: [--config, pyproject.toml]
+      # Linter with auto-fix
+      - id: ruff
+        args: [--fix, --config, pyproject.toml]
+
+  # MyPy - Static type checker
+  - repo: https://github.com/pre-commit/mirrors-mypy
+    rev: v1.14.1
+    hooks:
+      - id: mypy
+        args: [--config-file, pyproject.toml]
+        additional_dependencies:
+          - click
+          - rich
+        pass_filenames: false
+        entry: mypy scripts/

@@ -1,6 +1,6 @@
 [project]
 name = "n8n-workflow-analyzer"
-version = "0.1.6"
+version = "0.1.7"
 description = "Python utilities for n8n workflow analysis"
 requires-python = ">=3.11"
 
@@ -26,3 +26,27 @@ known-first-party = ["scripts"]
 [tool.ruff.format]
 quote-style = "double"
 indent-style = "space"
+
+[tool.mypy]
+python_version = "3.11"
+strict = true
+warn_return_any = true
+warn_unused_ignores = true
+disallow_untyped_defs = true
+disallow_incomplete_defs = true
+check_untyped_defs = true
+disallow_untyped_decorators = true
+no_implicit_optional = true
+warn_redundant_casts = true
+warn_unused_configs = true
+show_error_codes = true
+show_column_numbers = true
+
+[[tool.mypy.overrides]]
+module = ["click.*", "rich.*", "requests.*"]
+ignore_missing_imports = true
+
+[[tool.mypy.overrides]]
+# CLI entry points use click decorators that don't preserve types
+module = ["scripts.download", "scripts.search", "scripts.split"]
+disallow_untyped_decorators = false
