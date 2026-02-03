@@ -1,3 +1,1 @@
-# AGENTS.md
-
-See README.md
+CLAUDE.md

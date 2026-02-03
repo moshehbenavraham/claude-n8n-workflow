@@ -1,3 +1,1 @@
-# GEMINI.md
-
-See README.md
+CLAUDE.md
