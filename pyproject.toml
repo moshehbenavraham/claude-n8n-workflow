@@ -1,6 +1,6 @@
 [project]
 name = "n8n-workflow-analyzer"
-version = "0.1.8"
+version = "0.1.9"
 description = "Python utilities for n8n workflow analysis"
 requires-python = ">=3.11"
 
@@ -48,5 +48,5 @@ ignore_missing_imports = true
 
 [[tool.mypy.overrides]]
 # CLI entry points use click decorators that don't preserve types
-module = ["scripts.download", "scripts.search", "scripts.split"]
+module = ["scripts.download", "scripts.search", "scripts.split", "scripts.crawl"]
 disallow_untyped_decorators = false
