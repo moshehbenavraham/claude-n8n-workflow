@@ -1139,6 +1139,17 @@
     "nodeCount": 8,
     "file": "Content-Creation/7090-Automatically-send-monthly-sales-reports-from-Squa.json"
   },
+  "12372": {
+    "name": "Create active learning notes from YouTube videos with Gemini and Notion",
+    "categories": [
+      "Content Creation",
+      "AI Summarization"
+    ],
+    "author": "Abelion Lavv",
+    "totalViews": 31,
+    "nodeCount": 13,
+    "file": "Content-Creation/12372-Create-active-learning-notes-from-YouTube-videos-w.json"
+  },
   "6015": {
     "name": "Generate & publish SEO blog posts to Blogger using OpenRouter AI & Mediastack News",
     "categories": [
@@ -1838,6 +1849,17 @@
     "totalViews": 108,
     "nodeCount": 16,
     "file": "Content-Creation/7574-Create-Dev-to-articles-with-OpenAI-Gemini-AI-gener.json"
+  },
+  "13269": {
+    "name": "Design UI projects \ud83c\udfa8\ud83d\uddbc\ufe0f with Google Stitch via Telegram using MCP and Gemini AI",
+    "categories": [
+      "Content Creation",
+      "AI Chatbot"
+    ],
+    "author": "Davide",
+    "totalViews": 548,
+    "nodeCount": 12,
+    "file": "Content-Creation/13269-Design-UI-projects-with-Google-Stitch-via-Telegram.json"
   },
   "13003": {
     "name": "Generate Japanese Twitter posts with GPT-4, quality control, and Notion",
@@ -2794,6 +2816,17 @@
     "nodeCount": 9,
     "file": "Content-Creation/7334-Generate-AI-images-in-bulk-with-Freepik-Google-She.json"
   },
+  "13357": {
+    "name": "Generate multi-format social visuals with Abyssale and publish via Blotato",
+    "categories": [
+      "Content Creation",
+      "Multimodal AI"
+    ],
+    "author": "Dr. Firas",
+    "totalViews": 62,
+    "nodeCount": 15,
+    "file": "Content-Creation/13357-Generate-multi-format-social-visuals-with-Abyssale.json"
+  },
   "7036": {
     "name": "Automated YouTube shorts creator with yt-dlp & FFmpeg",
     "categories": [
@@ -2913,6 +2946,17 @@
     "totalViews": 11044,
     "nodeCount": 14,
     "file": "Content-Creation/8428-Create-viral-ads-with-AI-NanoBanana-publish-on-soc.json"
+  },
+  "13383": {
+    "name": "Generate SEO articles from search queries to WordPress with BrowserAct and OpenRouter",
+    "categories": [
+      "Content Creation",
+      "Multimodal AI"
+    ],
+    "author": "Madame AI Team | Kai",
+    "totalViews": 104,
+    "nodeCount": 10,
+    "file": "Content-Creation/13383-Generate-SEO-articles-from-search-queries-to-WordP.json"
   },
   "5068": {
     "name": "Daily AI news digest to LinkedIn posts with OpenAI GPT and RSS feeds",
@@ -3472,6 +3516,17 @@
     "nodeCount": 3,
     "file": "Content-Creation/6728-Discovering-and-analyzing-conferences-for-networki.json"
   },
+  "13236": {
+    "name": "Post images from Google Drive to Discord using Gemini Gemini AI",
+    "categories": [
+      "Content Creation",
+      "Multimodal AI"
+    ],
+    "author": "EoCi - Mr.Eo",
+    "totalViews": 15,
+    "nodeCount": 10,
+    "file": "Content-Creation/13236-Post-images-from-Google-Drive-to-Discord-using-Gem.json"
+  },
   "8083": {
     "name": "Automate blog & LinkedIn content creation with OpenAI & Replicate AI images",
     "categories": [
@@ -3656,6 +3711,17 @@
     "totalViews": 1,
     "nodeCount": 9,
     "file": "Content-Creation/13127-Publish-WordPress-posts-from-Google-Sheets-with-im.json"
+  },
+  "13340": {
+    "name": "Repurpose viral content into AI visuals and post to Instagram and Facebook with Blotato",
+    "categories": [
+      "Content Creation",
+      "Multimodal AI"
+    ],
+    "author": "giangxai",
+    "totalViews": 59,
+    "nodeCount": 5,
+    "file": "Content-Creation/13340-Repurpose-viral-content-into-AI-visuals-and-post-t.json"
   },
   "5393": {
     "name": "Convert Form Inputs to Cinematic Videos with GPT-4, Dumpling AI & ElevenLabs Audio",
@@ -4602,6 +4668,17 @@
     "nodeCount": 8,
     "file": "Content-Creation/2795-Programmatically-retrieve-embeddable-Getty-Images.json"
   },
+  "13303": {
+    "name": "Generate product and marketing images using Riverflow 2.0 on Replicate",
+    "categories": [
+      "Content Creation",
+      "Multimodal AI"
+    ],
+    "author": "Joel Sage",
+    "totalViews": 9,
+    "nodeCount": 11,
+    "file": "Content-Creation/13303-Generate-product-and-marketing-images-using-Riverf.json"
+  },
   "8192": {
     "name": "Generate SEO blog posts from web searches with Mistral AI and Google Drive",
     "categories": [
@@ -4722,6 +4799,17 @@
     "totalViews": 1107,
     "nodeCount": 13,
     "file": "Content-Creation/7139-Convert-YouTube-videos-to-SEO-articles-with-Supada.json"
+  },
+  "13306": {
+    "name": "Enhance images with Riverflow 2.0 reference-based super-resolution via Replicate",
+    "categories": [
+      "Content Creation",
+      "Multimodal AI"
+    ],
+    "author": "Joel Sage",
+    "totalViews": 17,
+    "nodeCount": 8,
+    "file": "Content-Creation/13306-Enhance-images-with-Riverflow-2-0-reference-based.json"
   },
   "5339": {
     "name": "Tech news_curator - analyze daily news using AI_agents with Mistral",
@@ -4952,6 +5040,17 @@
     "totalViews": 1978,
     "nodeCount": 6,
     "file": "Content-Creation/8484-Generate-product-creative-images-with-Google-Nano.json"
+  },
+  "13376": {
+    "name": "Repurpose white papers into LinkedIn PDFs and blog posts with BrowserAct and GPT-4o",
+    "categories": [
+      "Content Creation",
+      "Multimodal AI"
+    ],
+    "author": "Madame AI Team | Kai",
+    "totalViews": 1,
+    "nodeCount": 9,
+    "file": "Content-Creation/13376-Repurpose-white-papers-into-LinkedIn-PDFs-and-blog.json"
   },
   "11584": {
     "name": "Extract viral-worthy clips from YouTube videos with Gemini AI & FFmpeg editing",
@@ -5249,6 +5348,17 @@
     "totalViews": 1125,
     "nodeCount": 7,
     "file": "Content-Creation/8626-Create-short-form-AI-videos-for-any-topic-using-Op.json"
+  },
+  "13315": {
+    "name": "Optimize Webflow CMS SEO metadata using MCP and GPT\u20114o-mini",
+    "categories": [
+      "Content Creation",
+      "AI RAG"
+    ],
+    "author": "Dahiana",
+    "totalViews": 19,
+    "nodeCount": 11,
+    "file": "Content-Creation/13315-Optimize-Webflow-CMS-SEO-metadata-using-MCP-and-GP.json"
   },
   "10220": {
     "name": "Generate event marketing content with GPT-4, Google Sheets & Slack",
@@ -7046,6 +7156,17 @@
     "nodeCount": 14,
     "file": "Content-Creation/8927-Generate-UGC-videos-from-product-images-with-Gemin.json"
   },
+  "12216": {
+    "name": "Generate SEO-optimized PWA website with Google Gemini and deploy to S3",
+    "categories": [
+      "Content Creation",
+      "Multimodal AI"
+    ],
+    "author": "Oka Hironobu",
+    "totalViews": 2,
+    "nodeCount": 8,
+    "file": "Content-Creation/12216-Generate-SEO-optimized-PWA-website-with-Google-Gem.json"
+  },
   "7744": {
     "name": "Generate business ideas & social media content from Reddit with AI analysis to Telegram",
     "categories": [
@@ -7243,17 +7364,6 @@
     "nodeCount": 4,
     "file": "Content-Creation/4622-Generate-custom-AI-videos-with-Digital-Avatars-usi.json"
   },
-  "6576": {
-    "name": "Automate outbound Vapi voice calls from new Google Sheets rows",
-    "categories": [
-      "Content Creation",
-      "Multimodal AI"
-    ],
-    "author": "Aitor | 1Node",
-    "totalViews": 1990,
-    "nodeCount": 5,
-    "file": "Content-Creation/6576-Automate-outbound-Vapi-voice-calls-from-new-Google.json"
-  },
   "12294": {
     "name": "Generate social content pillars, calendars and posts using Google Sheets and OpenAI",
     "categories": [
@@ -7386,6 +7496,17 @@
     "nodeCount": 19,
     "file": "Content-Creation/6117-AI-SEO-Blog-Automation-for-WordPress-with-featured.json"
   },
+  "13042": {
+    "name": "Create WordPress posts from Reddit content via Telegram bot and Perplexity",
+    "categories": [
+      "Content Creation",
+      "Multimodal AI"
+    ],
+    "author": "Kshitij Matta",
+    "totalViews": 3,
+    "nodeCount": 15,
+    "file": "Content-Creation/13042-Create-WordPress-posts-from-Reddit-content-via-Tel.json"
+  },
   "6381": {
     "name": "Transform YouTube videos to social media content with Vizard AI and GPT-4.1",
     "categories": [
@@ -7495,6 +7616,28 @@
     "totalViews": 69,
     "nodeCount": 13,
     "file": "Content-Creation/10524-Phase-based-blog-creation-system-with-specialized.json"
+  },
+  "13222": {
+    "name": "Create and validate Meta ad copy with GPT-4o, OriginalVoices, and Sheets",
+    "categories": [
+      "Content Creation",
+      "AI Summarization"
+    ],
+    "author": "Vedad Sose",
+    "totalViews": 33,
+    "nodeCount": 7,
+    "file": "Content-Creation/13222-Create-and-validate-Meta-ad-copy-with-GPT-4o-Origi.json"
+  },
+  "13333": {
+    "name": "Create Shopify products via a Telegram bot with Google Gemini AI",
+    "categories": [
+      "Content Creation",
+      "AI Chatbot"
+    ],
+    "author": "Kshitij Matta",
+    "totalViews": 19,
+    "nodeCount": 15,
+    "file": "Content-Creation/13333-Create-Shopify-products-via-a-Telegram-bot-with-Go.json"
   },
   "3625": {
     "name": "General 3D presentation workflow with Midjourney, GPT-4o-image and Kling APIs",
@@ -8316,6 +8459,17 @@
     "nodeCount": 13,
     "file": "Content-Creation/6449-Generate-AI-video-sales-letters-with-Google-VEO3-C.json"
   },
+  "13367": {
+    "name": "Generate Images on Telegram \ud83e\udd16\ud83d\uddbc\ufe0f from Text and Voice using Grok Imagine & Kie AI",
+    "categories": [
+      "Content Creation",
+      "AI Chatbot"
+    ],
+    "author": "Davide",
+    "totalViews": 50,
+    "nodeCount": 15,
+    "file": "Content-Creation/13367-Generate-Images-on-Telegram-from-Text-and-Voice-us.json"
+  },
   "1048": {
     "name": "Create, update, and get an item from Webflow",
     "categories": [
@@ -8799,6 +8953,17 @@
     "nodeCount": 8,
     "file": "Content-Creation/7007-Ai-powered-LinkedIn-content-generator-with-OpenAI.json"
   },
+  "13268": {
+    "name": "Rewrite web content with exact character counts using GPT-4.1 and Google Sheets",
+    "categories": [
+      "Content Creation",
+      "AI Summarization"
+    ],
+    "author": "isaWOW",
+    "totalViews": 5,
+    "nodeCount": 9,
+    "file": "Content-Creation/13268-Rewrite-web-content-with-exact-character-counts-us.json"
+  },
   "10832": {
     "name": "AI-powered SEO content optimization with SERP analysis & Slack approval workflow",
     "categories": [
@@ -9105,6 +9270,17 @@
     "totalViews": 431,
     "nodeCount": 12,
     "file": "Content-Creation/10829-Generate-SEO-content-briefs-with-GPT-4o-DataForSEO.json"
+  },
+  "13295": {
+    "name": "Create and post Instagram visuals from Google Sheets with Blotato",
+    "categories": [
+      "Content Creation",
+      "Multimodal AI"
+    ],
+    "author": "giangxai",
+    "totalViews": 27,
+    "nodeCount": 6,
+    "file": "Content-Creation/13295-Create-and-post-Instagram-visuals-from-Google-Shee.json"
   },
   "4987": {
     "name": "3D Product Video Generator from 2D Image for E-Commerce Stores",
@@ -12523,6 +12699,16 @@
     "nodeCount": 13,
     "file": "CRM/11294-Generate-AI-inventory-reorder-recommendations-from.json"
   },
+  "13277": {
+    "name": "Sync Shopify customers to Zoho CRM contacts with value-based scoring",
+    "categories": [
+      "CRM"
+    ],
+    "author": "WeblineIndia",
+    "totalViews": 4,
+    "nodeCount": 5,
+    "file": "CRM/13277-Sync-Shopify-customers-to-Zoho-CRM-contacts-with-v.json"
+  },
   "12781": {
     "name": "Send daily CRM summary reports to Mattermost from HubSpot",
     "categories": [
@@ -12758,6 +12944,16 @@
     "totalViews": 2883,
     "nodeCount": 13,
     "file": "CRM/2124-List-social-media-activity-of-a-company-before-a-c.json"
+  },
+  "13259": {
+    "name": "Send subscription renewal reminders with Email and ClickUp",
+    "categories": [
+      "CRM"
+    ],
+    "author": "vinci-king-01",
+    "totalViews": 1,
+    "nodeCount": 8,
+    "file": "CRM/13259-Send-subscription-renewal-reminders-with-Email-and.json"
   },
   "7781": {
     "name": "Automated client onboarding system with Notion, email & CRM integration",
@@ -13482,6 +13678,16 @@
     "nodeCount": 4,
     "file": "CRM/8919-Sync-Calendly-bookings-to-Easy-Redmine-CRM-with-co.json"
   },
+  "13197": {
+    "name": "Process e-commerce orders with payment verification, inventory, Gmail, and Slack",
+    "categories": [
+      "CRM"
+    ],
+    "author": "Manu",
+    "totalViews": 5,
+    "nodeCount": 9,
+    "file": "CRM/13197-Process-e-commerce-orders-with-payment-verificatio.json"
+  },
   "6456": {
     "name": "Automatically import Square sales summary reports into Google Sheets",
     "categories": [
@@ -14043,6 +14249,16 @@
     "nodeCount": 2,
     "file": "CRM/5119-Monica-CRM-tool-MCP-server-all-52-operations.json"
   },
+  "13225": {
+    "name": "Sync CRM contacts with Mailchimp and Pipedrive",
+    "categories": [
+      "CRM"
+    ],
+    "author": "vinci-king-01",
+    "totalViews": 17,
+    "nodeCount": 9,
+    "file": "CRM/13225-Sync-CRM-contacts-with-Mailchimp-and-Pipedrive.json"
+  },
   "990": {
     "name": "Manage contacts via Autopilot",
     "categories": [
@@ -14219,6 +14435,16 @@
     "nodeCount": 14,
     "file": "CRM/11535-Extract-meeting-tasks-from-Google-Docs-to-GoHighLe.json"
   },
+  "13276": {
+    "name": "Send weekly low\u2011stock alerts from WooCommerce to Slack and Jira",
+    "categories": [
+      "CRM"
+    ],
+    "author": "WeblineIndia",
+    "totalViews": 2,
+    "nodeCount": 6,
+    "file": "CRM/13276-Send-weekly-low-stock-alerts-from-WooCommerce-to-S.json"
+  },
   "10356": {
     "name": "Shopify & WooCommerce inventory sync with Google Sheets alerts",
     "categories": [
@@ -14311,6 +14537,16 @@
     "totalViews": 41,
     "nodeCount": 6,
     "file": "CRM/8708-Register-volunteers-in-SinergiaCRM-from-form-submi.json"
+  },
+  "13233": {
+    "name": "Sync contacts, consent, and segments between KlickTipp and Pipedrive",
+    "categories": [
+      "CRM"
+    ],
+    "author": "KlickTipp",
+    "totalViews": 1,
+    "nodeCount": 6,
+    "file": "CRM/13233-Sync-contacts-consent-and-segments-between-KlickTi.json"
   },
   "10751": {
     "name": "Analyze sales call objections with Fireflies transcripts, GPT-4o, and Slack feedback",
@@ -14730,6 +14966,17 @@
     "nodeCount": 6,
     "file": "CRM/1998-WordPress-to-Pipedrive-integration-Automating-cont.json"
   },
+  "13324": {
+    "name": "Sync Gmail sent email contacts with Odoo mailing lists",
+    "categories": [
+      "CRM",
+      "AI Summarization"
+    ],
+    "author": "BHSoft",
+    "totalViews": 44,
+    "nodeCount": 9,
+    "file": "CRM/13324-Sync-Gmail-sent-email-contacts-with-Odoo-mailing-l.json"
+  },
   "12638": {
     "name": "Manage supplier quote requests and follow-ups with Gmail, Sheets, GPT-4o-mini and WhatsApp",
     "categories": [
@@ -14792,16 +15039,6 @@
     "totalViews": 200,
     "nodeCount": 7,
     "file": "CRM/7382-Complete-Webflow-to-Pipedrive-integration-with-sma.json"
-  },
-  "6053": {
-    "name": "Automate travel business operations with Postgres, Google Sheets and Voice API",
-    "categories": [
-      "CRM"
-    ],
-    "author": "Oneclick AI Squad",
-    "totalViews": 304,
-    "nodeCount": 8,
-    "file": "CRM/6053-Automate-travel-business-operations-with-Postgres.json"
   },
   "12739": {
     "name": "Create consulting client onboarding tasks with GPT-4, Google Sheets and Slack",
@@ -14993,6 +15230,16 @@
     "totalViews": 181,
     "nodeCount": 12,
     "file": "CRM/9526-Jotform-automated-commerce-sync-Telegram-confirmat.json"
+  },
+  "13288": {
+    "name": "Sync NetSuite inventory items between NetSuite and Salesforce products",
+    "categories": [
+      "CRM"
+    ],
+    "author": "Entech Solutions",
+    "totalViews": 2,
+    "nodeCount": 7,
+    "file": "CRM/13288-Sync-NetSuite-inventory-items-between-NetSuite-and.json"
   },
   "9469": {
     "name": "Sync Adobe Commerce Customer Data to KlickTipp with Value-Based Tagging",
@@ -15271,6 +15518,16 @@
     "totalViews": 0,
     "nodeCount": 10,
     "file": "CRM/12737-Extract-sales-insights-from-Scoot-call-transcripts.json"
+  },
+  "13281": {
+    "name": "Send weekly WooCommerce sales KPIs to Slack and Google Sheets",
+    "categories": [
+      "CRM"
+    ],
+    "author": "WeblineIndia",
+    "totalViews": 2,
+    "nodeCount": 8,
+    "file": "CRM/13281-Send-weekly-WooCommerce-sales-KPIs-to-Slack-and-Go.json"
   },
   "10599": {
     "name": "Fetch Odoo customer data and export to JSON or Excel",
@@ -15890,6 +16147,442 @@
     "totalViews": 175,
     "nodeCount": 12,
     "file": "CRM/9063-Automate-digital-product-sales-delivery-with-Strip.json"
+  },
+  "5847": {
+    "name": "Build a restaurant voice assistant with VAPI and PostgreSQL for bookings & orders",
+    "categories": [
+      "Support Chatbot",
+      "AI Chatbot"
+    ],
+    "author": "Oneclick AI Squad",
+    "totalViews": 4105,
+    "nodeCount": 5,
+    "file": "Vapi.ai/5847-Build-a-restaurant-voice-assistant-with-VAPI-and-P.json"
+  },
+  "13114": {
+    "name": "Make outbound sales calls from Google Sheets using a VAPI voice agent",
+    "categories": [
+      "Lead Nurturing",
+      "AI Chatbot"
+    ],
+    "author": "Marcus Taylor",
+    "totalViews": 1,
+    "nodeCount": 8,
+    "file": "Vapi.ai/13114-Make-outbound-sales-calls-from-Google-Sheets-using.json"
+  },
+  "6895": {
+    "name": "Book appointments with voice using VAPI & Cal.com",
+    "categories": [
+      "Support Chatbot",
+      "AI Chatbot"
+    ],
+    "author": "Nabin Bhandari",
+    "totalViews": 2696,
+    "nodeCount": 6,
+    "file": "Vapi.ai/6895-Book-appointments-with-voice-using-VAPI-Cal-com.json"
+  },
+  "4940": {
+    "name": "Automated AI cold calling system with VAPI.ai, Airtable, and smart follow-ups",
+    "categories": [
+      "Lead Nurturing",
+      "AI Chatbot"
+    ],
+    "author": "Usman Liaqat",
+    "totalViews": 401,
+    "nodeCount": 8,
+    "file": "Vapi.ai/4940-Automated-AI-cold-calling-system-with-VAPI-ai-Airt.json"
+  },
+  "6573": {
+    "name": "Auto-call new Typeform submissions with Vapi voice assistant",
+    "categories": [
+      "Lead Nurturing",
+      "AI Chatbot"
+    ],
+    "author": "Aitor | 1Node",
+    "totalViews": 514,
+    "nodeCount": 5,
+    "file": "Vapi.ai/6573-Auto-call-new-Typeform-submissions-with-Vapi-voice.json"
+  },
+  "9803": {
+    "name": "Automate lead qualification with AI voice calls using GPT-3.5, Notion and Vapi",
+    "categories": [
+      "Lead Nurturing",
+      "AI Chatbot"
+    ],
+    "author": "Summer",
+    "totalViews": 985,
+    "nodeCount": 9,
+    "file": "Vapi.ai/9803-Automate-lead-qualification-with-AI-voice-calls-us.json"
+  },
+  "5790": {
+    "name": "Automated HR screening with VAPI AI calls, Gemini analysis & Google Sheets",
+    "categories": [
+      "HR",
+      "AI Summarization"
+    ],
+    "author": "Agentick AI",
+    "totalViews": 2485,
+    "nodeCount": 8,
+    "file": "Vapi.ai/5790-Automated-HR-screening-with-VAPI-AI-calls-Gemini-a.json"
+  },
+  "11649": {
+    "name": "Post-surgery patient triage & follow-up system with Gemini AI, Telegram & Google Suite",
+    "categories": [
+      "Ticket Management",
+      "AI Chatbot"
+    ],
+    "author": "Pixcels Themes",
+    "totalViews": 58,
+    "nodeCount": 11,
+    "file": "Vapi.ai/11649-Post-surgery-patient-triage-follow-up-system-with.json"
+  },
+  "4833": {
+    "name": "Multiple websites monitoring with notifications including phone calls",
+    "categories": [
+      "DevOps"
+    ],
+    "author": "InfyOm Technologies",
+    "totalViews": 16913,
+    "nodeCount": 10,
+    "file": "Vapi.ai/4833-Multiple-websites-monitoring-with-notifications-in.json"
+  },
+  "7401": {
+    "name": "Automated phone interview evaluation with Vapi, GPT-4o & Google Sheets",
+    "categories": [
+      "HR",
+      "Multimodal AI"
+    ],
+    "author": "Robert Breen",
+    "totalViews": 1596,
+    "nodeCount": 7,
+    "file": "Vapi.ai/7401-Automated-phone-interview-evaluation-with-Vapi-GPT.json"
+  },
+  "12956": {
+    "name": "Generate AI voice receptionists for local businesses with Claude, VAPI and Google Maps",
+    "categories": [
+      "Support Chatbot",
+      "AI Chatbot"
+    ],
+    "author": "Hugo Le Poole",
+    "totalViews": 3,
+    "nodeCount": 12,
+    "file": "Vapi.ai/12956-Generate-AI-voice-receptionists-for-local-business.json"
+  },
+  "6577": {
+    "name": "Automate outbound voice calls with Vapi from form submissions",
+    "categories": [
+      "Lead Nurturing",
+      "AI Chatbot"
+    ],
+    "author": "Aitor | 1Node",
+    "totalViews": 2242,
+    "nodeCount": 5,
+    "file": "Vapi.ai/6577-Automate-outbound-voice-calls-with-Vapi-from-form.json"
+  },
+  "8590": {
+    "name": "Automate lead qualification & follow-up with Gemini, HubSpot, Zoom & Mailchimp",
+    "categories": [
+      "Lead Nurturing",
+      "AI Chatbot"
+    ],
+    "author": "Ajay Yadav",
+    "totalViews": 541,
+    "nodeCount": 12,
+    "file": "Vapi.ai/8590-Automate-lead-qualification-follow-up-with-Gemini.json"
+  },
+  "10473": {
+    "name": "Automated BBB lead generation with BrowserAct",
+    "categories": [
+      "Lead Generation",
+      "AI Summarization"
+    ],
+    "author": "Bakir Ali",
+    "totalViews": 145,
+    "nodeCount": 8,
+    "file": "Vapi.ai/10473-Automated-BBB-lead-generation-with-BrowserAct.json"
+  },
+  "3759": {
+    "name": "Automate AI phone booking & CRM updates with GPT-4, VAPI.ai, and GHL",
+    "categories": [
+      "Lead Nurturing",
+      "AI Chatbot"
+    ],
+    "author": "Sam Yassine",
+    "totalViews": 1543,
+    "nodeCount": 9,
+    "file": "Vapi.ai/3759-Automate-AI-phone-booking-CRM-updates-with-GPT-4-V.json"
+  },
+  "8284": {
+    "name": "Create a WhatsApp voice assistant with Twilio, VAPI, Google Calendar & OpenAI",
+    "categories": [
+      "Support Chatbot",
+      "AI Chatbot"
+    ],
+    "author": "Nabin Bhandari",
+    "totalViews": 1164,
+    "nodeCount": 6,
+    "file": "Vapi.ai/8284-Create-a-WhatsApp-voice-assistant-with-Twilio-VAPI.json"
+  },
+  "12004": {
+    "name": "Restaurant GPT-4 receptionist for bookings & delivery using Vapi, Telegram, Airtable",
+    "categories": [
+      "Support Chatbot",
+      "AI Chatbot"
+    ],
+    "author": "Max",
+    "totalViews": 667,
+    "nodeCount": 18,
+    "file": "Vapi.ai/12004-Restaurant-GPT-4-receptionist-for-bookings-deliver.json"
+  },
+  "4152": {
+    "name": "Automate outbound sales calls to qualified leads with VAPI.ai and Google Sheets",
+    "categories": [
+      "Lead Nurturing",
+      "AI Chatbot"
+    ],
+    "author": "David Olusola",
+    "totalViews": 1817,
+    "nodeCount": 9,
+    "file": "Vapi.ai/4152-Automate-outbound-sales-calls-to-qualified-leads-w.json"
+  },
+  "8866": {
+    "name": "Voice-driven AI assistant using VAPI and GPT-4.1-mini with memory",
+    "categories": [
+      "AI Chatbot"
+    ],
+    "author": "Robert Breen",
+    "totalViews": 721,
+    "nodeCount": 7,
+    "file": "Vapi.ai/8866-Voice-driven-AI-assistant-using-VAPI-and-GPT-4-1-m.json"
+  },
+  "10905": {
+    "name": "Voice appointment booking & confirmation system with Vapi, Gemini & Google Calendar",
+    "categories": [
+      "Support Chatbot",
+      "AI Chatbot"
+    ],
+    "author": "Habeeb Mohammed",
+    "totalViews": 1565,
+    "nodeCount": 8,
+    "file": "Vapi.ai/10905-Voice-appointment-booking-confirmation-system-with.json"
+  },
+  "5008": {
+    "name": "AI-Powered Cold Calling Automation with Vapi.ai, GPT-4o & Google Sheets",
+    "categories": [
+      "Lead Nurturing",
+      "AI Chatbot"
+    ],
+    "author": "Amit Mehta",
+    "totalViews": 1230,
+    "nodeCount": 11,
+    "file": "Vapi.ai/5008-AI-Powered-Cold-Calling-Automation-with-Vapi-ai-GP.json"
+  },
+  "5890": {
+    "name": "Automate restaurant marketing & booking with Excel, VAPI voice agent & calendar",
+    "categories": [
+      "Lead Nurturing",
+      "AI Chatbot"
+    ],
+    "author": "Oneclick AI Squad",
+    "totalViews": 8181,
+    "nodeCount": 10,
+    "file": "Vapi.ai/5890-Automate-restaurant-marketing-booking-with-Excel-V.json"
+  },
+  "12831": {
+    "name": "Book, manage, and check appointments using Vapi and Google Calendar",
+    "categories": [
+      "Support Chatbot",
+      "AI Chatbot"
+    ],
+    "author": "Johnpaul Nwagwu",
+    "totalViews": 14,
+    "nodeCount": 8,
+    "file": "Vapi.ai/12831-Book-manage-and-check-appointments-using-Vapi-and.json"
+  },
+  "7380": {
+    "name": "Automate order confirmations with VAPI Voice AI & timezone intelligence",
+    "categories": [
+      "Support Chatbot",
+      "Multimodal AI"
+    ],
+    "author": "Adnan Azhar",
+    "totalViews": 806,
+    "nodeCount": 7,
+    "file": "Vapi.ai/7380-Automate-order-confirmations-with-VAPI-Voice-AI-ti.json"
+  },
+  "5466": {
+    "name": "Automated restaurant call handling & table booking system with VAPI and PostgreSQL",
+    "categories": [
+      "Support Chatbot",
+      "AI Chatbot"
+    ],
+    "author": "Oneclick AI Squad",
+    "totalViews": 6658,
+    "nodeCount": 4,
+    "file": "Vapi.ai/5466-Automated-restaurant-call-handling-table-booking-s.json"
+  },
+  "6576": {
+    "name": "Automate outbound Vapi voice calls from new Google Sheets rows",
+    "categories": [
+      "Content Creation",
+      "Multimodal AI"
+    ],
+    "author": "Aitor | 1Node",
+    "totalViews": 1990,
+    "nodeCount": 5,
+    "file": "Vapi.ai/6576-Automate-outbound-Vapi-voice-calls-from-new-Google.json"
+  },
+  "12526": {
+    "name": "Automate outbound AI sales calls with double-dial using Airtable and Vapi AI",
+    "categories": [
+      "Lead Nurturing",
+      "AI Chatbot"
+    ],
+    "author": "zahir khan",
+    "totalViews": 169,
+    "nodeCount": 8,
+    "file": "Vapi.ai/12526-Automate-outbound-AI-sales-calls-with-double-dial.json"
+  },
+  "8339": {
+    "name": "Replace your call center with an AI agent using GoHighLevel (GHL), VAPI & Twilio",
+    "categories": [
+      "Lead Nurturing",
+      "AI Chatbot"
+    ],
+    "author": "\u021augui Drago\u0219",
+    "totalViews": 456,
+    "nodeCount": 8,
+    "file": "Vapi.ai/8339-Replace-your-call-center-with-an-AI-agent-using-Go.json"
+  },
+  "6630": {
+    "name": "Automate real estate marketing with Llama AI, VAPI calls & Gmail campaigns",
+    "categories": [
+      "Lead Nurturing",
+      "Multimodal AI"
+    ],
+    "author": "Oneclick AI Squad",
+    "totalViews": 1667,
+    "nodeCount": 11,
+    "file": "Vapi.ai/6630-Automate-real-estate-marketing-with-Llama-AI-VAPI.json"
+  },
+  "5404": {
+    "name": "B2B lead qualification",
+    "categories": [
+      "Lead Generation",
+      "AI Chatbot"
+    ],
+    "author": "Oneclick AI Squad",
+    "totalViews": 1164,
+    "nodeCount": 6,
+    "file": "Vapi.ai/5404-B2B-lead-qualification.json"
+  },
+  "6053": {
+    "name": "Automate travel business operations with Postgres, Google Sheets and Voice API",
+    "categories": [
+      "CRM"
+    ],
+    "author": "Oneclick AI Squad",
+    "totalViews": 304,
+    "nodeCount": 8,
+    "file": "Vapi.ai/6053-Automate-travel-business-operations-with-Postgres.json"
+  },
+  "11794": {
+    "name": "Qualify insurance leads using Vapi, GPT-4 proposals and Airtable",
+    "categories": [
+      "Lead Generation",
+      "AI Chatbot"
+    ],
+    "author": "Harvex AI",
+    "totalViews": 267,
+    "nodeCount": 10,
+    "file": "Vapi.ai/11794-Qualify-insurance-leads-using-Vapi-GPT-4-proposals.json"
+  },
+  "11655": {
+    "name": "Monitor website uptime with Google Sheets, Slack, Email & Phone Call alerts",
+    "categories": [
+      "DevOps"
+    ],
+    "author": "Pixcels Themes",
+    "totalViews": 140,
+    "nodeCount": 9,
+    "file": "Vapi.ai/11655-Monitor-website-uptime-with-Google-Sheets-Slack-Em.json"
+  },
+  "3427": {
+    "name": "Automate call scheduling with Voice AI receptionist using Vapi, Google Calendar & Airtable",
+    "categories": [
+      "Support Chatbot",
+      "AI Chatbot"
+    ],
+    "author": "SuperAgent",
+    "totalViews": 44624,
+    "nodeCount": 9,
+    "file": "Vapi.ai/3427-Automate-call-scheduling-with-Voice-AI-receptionis.json"
+  },
+  "6695": {
+    "name": "Trigger outbound Vapi AI voice calls from new Jotform submissions",
+    "categories": [
+      "Lead Nurturing",
+      "AI Chatbot"
+    ],
+    "author": "Aitor | 1Node",
+    "totalViews": 1106,
+    "nodeCount": 6,
+    "file": "Vapi.ai/6695-Trigger-outbound-Vapi-AI-voice-calls-from-new-Jotf.json"
+  },
+  "6088": {
+    "name": "Automate outbound voice calls from Go High Level opportunities with Vapi",
+    "categories": [
+      "Lead Nurturing",
+      "AI Chatbot"
+    ],
+    "author": "Aitor | 1Node",
+    "totalViews": 1634,
+    "nodeCount": 6,
+    "file": "Vapi.ai/6088-Automate-outbound-voice-calls-from-Go-High-Level-o.json"
+  },
+  "8488": {
+    "name": "Voice AI customer support for WooCommerce using VAPI, GPT-4o & Gemini with RAG",
+    "categories": [
+      "Support Chatbot",
+      "AI RAG"
+    ],
+    "author": "Davide",
+    "totalViews": 1070,
+    "nodeCount": 15,
+    "file": "Vapi.ai/8488-Voice-AI-customer-support-for-WooCommerce-using-VA.json"
+  },
+  "8972": {
+    "name": "Automated voice appointment booking with Vapi AI and Google Calendar",
+    "categories": [
+      "Support Chatbot",
+      "AI Chatbot"
+    ],
+    "author": "Francisco Rivera",
+    "totalViews": 3440,
+    "nodeCount": 7,
+    "file": "Vapi.ai/8972-Automated-voice-appointment-booking-with-Vapi-AI-a.json"
+  },
+  "13220": {
+    "name": "Handle WhatsApp sales queries with GPT-4, Supabase, and a product catalog",
+    "categories": [
+      "Lead Nurturing",
+      "AI Chatbot"
+    ],
+    "author": "Shadrack",
+    "totalViews": 0,
+    "nodeCount": 18,
+    "file": "Vapi.ai/13220-Handle-WhatsApp-sales-queries-with-GPT-4-Supabase.json"
+  },
+  "4031": {
+    "name": "Cold outreach automation: Scrape local leads with Dumpling AI & call via Vapi",
+    "categories": [
+      "Lead Nurturing",
+      "AI Chatbot"
+    ],
+    "author": "Yang",
+    "totalViews": 8492,
+    "nodeCount": 7,
+    "file": "Vapi.ai/4031-Cold-outreach-automation-Scrape-local-leads-with-D.json"
   },
   "7802": {
     "name": "Auto-generate meeting minutes with GPT and share from Google Drive to Slack",
@@ -17463,6 +18156,16 @@
     "nodeCount": 8,
     "file": "DevOps/3075-Error-handling-Send-email-via-Gmail-on-execution-o.json"
   },
+  "13290": {
+    "name": "Monitor scheduled workflow health in n8n with automatic trigger checks",
+    "categories": [
+      "DevOps"
+    ],
+    "author": "Julian Kaiser",
+    "totalViews": 34,
+    "nodeCount": 8,
+    "file": "DevOps/13290-Monitor-scheduled-workflow-health-in-n8n-with-auto.json"
+  },
   "7145": {
     "name": "Send real-time Kubernetes(EKS/GKE/AKS) CPU spike alerts from Prometheus to Slack",
     "categories": [
@@ -17627,6 +18330,17 @@
     "totalViews": 1079,
     "nodeCount": 4,
     "file": "DevOps/3308-Push-multiple-files-to-GitHub-repository-via-Githu.json"
+  },
+  "13320": {
+    "name": "Monitor multi-cloud costs and enforce policies with OpenAI and Slack alerts",
+    "categories": [
+      "DevOps",
+      "AI Summarization"
+    ],
+    "author": "Cheng Siong Chin",
+    "totalViews": 21,
+    "nodeCount": 10,
+    "file": "DevOps/13320-Monitor-multi-cloud-costs-and-enforce-policies-wit.json"
   },
   "4035": {
     "name": "Automated daily backup of n8n workflows to GitLab repositories",
@@ -17799,16 +18513,6 @@
     "totalViews": 13969,
     "nodeCount": 15,
     "file": "DevOps/2307-Backup-your-credentials-to-GitHub.json"
-  },
-  "4833": {
-    "name": "Multiple websites monitoring with notifications including phone calls",
-    "categories": [
-      "DevOps"
-    ],
-    "author": "InfyOm Technologies",
-    "totalViews": 16913,
-    "nodeCount": 10,
-    "file": "DevOps/4833-Multiple-websites-monitoring-with-notifications-in.json"
   },
   "5325": {
     "name": "\ud83d\udee0\ufe0f CircleCI tool MCP server",
@@ -18879,6 +19583,16 @@
     "nodeCount": 5,
     "file": "DevOps/3353-Summarize-Microsoft-365-outage-alerts-with-ChatGPT.json"
   },
+  "13260": {
+    "name": "Back up databases and files to Box with Mailgun email notifications",
+    "categories": [
+      "DevOps"
+    ],
+    "author": "vinci-king-01",
+    "totalViews": 3,
+    "nodeCount": 10,
+    "file": "DevOps/13260-Back-up-databases-and-files-to-Box-with-Mailgun-em.json"
+  },
   "2054": {
     "name": "Meraki packet loss and latency alerts to Microsoft Teams",
     "categories": [
@@ -19101,6 +19815,17 @@
     "totalViews": 846,
     "nodeCount": 2,
     "file": "DevOps/501-Send-a-message-via-AWS-SNS.json"
+  },
+  "13198": {
+    "name": "Log n8n workflow errors to your REST API with Slack alerts and metrics",
+    "categories": [
+      "DevOps",
+      "AI Summarization"
+    ],
+    "author": "Manu",
+    "totalViews": 2,
+    "nodeCount": 8,
+    "file": "DevOps/13198-Log-n8n-workflow-errors-to-your-REST-API-with-Slac.json"
   },
   "4515": {
     "name": "Scheduled workflow backups from n8n to Google Drive with auto cleanup",
@@ -19780,6 +20505,16 @@
     "nodeCount": 15,
     "file": "DevOps/12724-Automated-error-monitoring-and-reporting-system-us.json"
   },
+  "13245": {
+    "name": "Back up n8n workflows to google drive while preserving folder structure",
+    "categories": [
+      "DevOps"
+    ],
+    "author": "Adam ABDELMOUMNI",
+    "totalViews": 36,
+    "nodeCount": 19,
+    "file": "DevOps/13245-Back-up-n8n-workflows-to-google-drive-while-preser.json"
+  },
   "643": {
     "name": "Get all releases in Sentry",
     "categories": [
@@ -19922,16 +20657,6 @@
     "totalViews": 940,
     "nodeCount": 8,
     "file": "DevOps/7374-AWS-Azure-GCP-multi-cloud-cost-monitoring-alerts-f.json"
-  },
-  "11655": {
-    "name": "Monitor website uptime with Google Sheets, Slack, Email & Phone Call alerts",
-    "categories": [
-      "DevOps"
-    ],
-    "author": "Pixcels Themes",
-    "totalViews": 140,
-    "nodeCount": 9,
-    "file": "DevOps/11655-Monitor-website-uptime-with-Google-Sheets-Slack-Em.json"
   },
   "6134": {
     "name": "Automate PostgreSQL & MySQL database management on Linux servers",
@@ -21534,6 +22259,16 @@
     "nodeCount": 10,
     "file": "Miscellaneous/10483-Moderate-your-Discord-server-using-chatGPT-5-Googl.json"
   },
+  "12078": {
+    "name": "Send Shopify shipping tracking WhatsApp notifications with full tracking info",
+    "categories": [
+      "Miscellaneous"
+    ],
+    "author": "Mira Melhem",
+    "totalViews": 7,
+    "nodeCount": 6,
+    "file": "Miscellaneous/12078-Send-Shopify-shipping-tracking-WhatsApp-notificati.json"
+  },
   "2712": {
     "name": "Form with dynamic dropdown field",
     "categories": [
@@ -22114,6 +22849,16 @@
     "totalViews": 1143,
     "nodeCount": 3,
     "file": "Miscellaneous/1458-Notify-on-Slack-when-new-product-is-added-in-WooCo.json"
+  },
+  "13196": {
+    "name": "Manage online bookings with webhook, Gmail, Google Calendar and Slack",
+    "categories": [
+      "Miscellaneous"
+    ],
+    "author": "Manu",
+    "totalViews": 4,
+    "nodeCount": 10,
+    "file": "Miscellaneous/13196-Manage-online-bookings-with-webhook-Gmail-Google-C.json"
   },
   "5270": {
     "name": "\ud83c\udf93 Learn n8n keyboard shortcuts with an interactive hands-on tutorial workflow",
@@ -23049,17 +23794,6 @@
     "nodeCount": 7,
     "file": "Lead-Generation/13018-Vet-Jotform-leads-with-ZeroBounce-and-sync-qualifi.json"
   },
-  "3912": {
-    "name": "Automate lead qualification with RetellAI Phone Agent, OpenAI GPT & Google Sheet",
-    "categories": [
-      "Lead Generation",
-      "AI Chatbot"
-    ],
-    "author": "Dr. Firas",
-    "totalViews": 21556,
-    "nodeCount": 12,
-    "file": "Lead-Generation/3912-Automate-lead-qualification-with-RetellAI-Phone-Ag.json"
-  },
   "4203": {
     "name": "Extract structured LinkedIn profile data with Airtop & AI parsing",
     "categories": [
@@ -23142,6 +23876,17 @@
     "totalViews": 1093,
     "nodeCount": 3,
     "file": "Lead-Generation/721-Receive-updates-on-form-submission-in-Mautic-and-s.json"
+  },
+  "12580": {
+    "name": "Capture LinkedIn leads and sync them with Google Sheets, HubSpot or Salesforce",
+    "categories": [
+      "Lead Generation",
+      "AI Summarization"
+    ],
+    "author": "Oneclick AI Squad",
+    "totalViews": 264,
+    "nodeCount": 10,
+    "file": "Lead-Generation/12580-Capture-LinkedIn-leads-and-sync-them-with-Google-S.json"
   },
   "13095": {
     "name": "Vet new Typeform leads with ZeroBounce and sync qualified contacts to Mautic",
@@ -23427,6 +24172,17 @@
     "totalViews": 830,
     "nodeCount": 6,
     "file": "Lead-Generation/5692-Automatic-lead-export-from-Fluentform-to-Google-Sh.json"
+  },
+  "13302": {
+    "name": "Personalize creator onboarding in HubSpot with influencers.club and GPT-4",
+    "categories": [
+      "Lead Generation",
+      "AI Summarization"
+    ],
+    "author": "Influencers Club",
+    "totalViews": 7,
+    "nodeCount": 12,
+    "file": "Lead-Generation/13302-Personalize-creator-onboarding-in-HubSpot-with-inf.json"
   },
   "4242": {
     "name": "Enrich CRM contact data with LinkedIn profiles using GPT & multi-CRM support",
@@ -24398,17 +25154,6 @@
     "nodeCount": 12,
     "file": "Lead-Generation/6776-Automated-company-research-lead-enrichment-with-GP.json"
   },
-  "10473": {
-    "name": "Automated BBB lead generation with BrowserAct",
-    "categories": [
-      "Lead Generation",
-      "AI Summarization"
-    ],
-    "author": "Bakir Ali",
-    "totalViews": 145,
-    "nodeCount": 8,
-    "file": "Lead-Generation/10473-Automated-BBB-lead-generation-with-BrowserAct.json"
-  },
   "11428": {
     "name": "Scrape verified Instagram leads with Apify and Airtable",
     "categories": [
@@ -25247,6 +25992,17 @@
     "totalViews": 996,
     "nodeCount": 5,
     "file": "Lead-Generation/4839-Automated-AI-lead-enrichment-Hubspot-to-Explorium.json"
+  },
+  "13170": {
+    "name": "Scrape Apollo leads with BrowserAct, draft Gemini emails, and save to Sheets",
+    "categories": [
+      "Lead Generation",
+      "Multimodal AI"
+    ],
+    "author": "browseract",
+    "totalViews": 37,
+    "nodeCount": 9,
+    "file": "Lead-Generation/13170-Scrape-Apollo-leads-with-BrowserAct-draft-Gemini-e.json"
   },
   "2131": {
     "name": "Send a notification to Slack when a new high-quality lead is added to Hubspot",
@@ -26843,17 +27599,6 @@
     "nodeCount": 7,
     "file": "Lead-Generation/2769-Gravity-forms-to-KlickTipp-integration-feedback-fo.json"
   },
-  "5404": {
-    "name": "B2B lead qualification",
-    "categories": [
-      "Lead Generation",
-      "AI Chatbot"
-    ],
-    "author": "Oneclick AI Squad",
-    "totalViews": 1164,
-    "nodeCount": 6,
-    "file": "Lead-Generation/5404-B2B-lead-qualification.json"
-  },
   "2463": {
     "name": "Enrich company data from Google Sheet with OpenAI Agent and ScrapingBee",
     "categories": [
@@ -27056,17 +27801,6 @@
     "totalViews": 1683,
     "nodeCount": 5,
     "file": "Lead-Generation/7424-Website-lead-management-Send-contact-form-submissi.json"
-  },
-  "11794": {
-    "name": "Qualify insurance leads using Vapi, GPT-4 proposals and Airtable",
-    "categories": [
-      "Lead Generation",
-      "AI Chatbot"
-    ],
-    "author": "Harvex AI",
-    "totalViews": 267,
-    "nodeCount": 10,
-    "file": "Lead-Generation/11794-Qualify-insurance-leads-using-Vapi-GPT-4-proposals.json"
   },
   "2016": {
     "name": "Batch verify emails in Google Sheet with Icypeas",
@@ -27567,6 +28301,17 @@
     "nodeCount": 9,
     "file": "Lead-Generation/12343-Enrich-contacts-with-Wiza-and-sync-results-to-Airt.json"
   },
+  "13250": {
+    "name": "Collect leads with a conversational GPT-4.1 chatbot and Google Sheets",
+    "categories": [
+      "Lead Generation",
+      "AI Chatbot"
+    ],
+    "author": "Incrementors",
+    "totalViews": 69,
+    "nodeCount": 7,
+    "file": "Lead-Generation/13250-Collect-leads-with-a-conversational-GPT-4-1-chatbo.json"
+  },
   "1930": {
     "name": "Sync new data between two apps",
     "categories": [
@@ -27949,6 +28694,17 @@
     "nodeCount": 16,
     "file": "Lead-Generation/6439-AI-powered-Google-Maps-business-scraper-with-enric.json"
   },
+  "13293": {
+    "name": "Enrich newsletter subscribers with cross-platform social data and tag in Mailchimp",
+    "categories": [
+      "Lead Generation",
+      "AI Summarization"
+    ],
+    "author": "Influencers Club",
+    "totalViews": 7,
+    "nodeCount": 8,
+    "file": "Lead-Generation/13293-Enrich-newsletter-subscribers-with-cross-platform.json"
+  },
   "5209": {
     "name": "Give AI agents power to create lists, items with LoneScale tool MCP Server",
     "categories": [
@@ -28255,6 +29011,17 @@
     "nodeCount": 20,
     "file": "Lead-Generation/8406-Generate-B2B-leads-from-any-city-business-type-usi.json"
   },
+  "13227": {
+    "name": "Enrich creator handles with cross-platform social data from influencers.club",
+    "categories": [
+      "Lead Generation",
+      "AI Summarization"
+    ],
+    "author": "Influencers Club",
+    "totalViews": 32,
+    "nodeCount": 7,
+    "file": "Lead-Generation/13227-Enrich-creator-handles-with-cross-platform-social.json"
+  },
   "8250": {
     "name": "Scrape jobs from Indeed, LinkedIn & more with RapidAPI to Google Sheets",
     "categories": [
@@ -28275,6 +29042,17 @@
     "totalViews": 29950,
     "nodeCount": 10,
     "file": "Lead-Generation/3904-Search-LinkedIn-companies-score-with-AI-and-add-th.json"
+  },
+  "13380": {
+    "name": "Monitor Clutch categories for new agencies with BrowserAct, Gemini, and Slack",
+    "categories": [
+      "Lead Generation",
+      "AI Summarization"
+    ],
+    "author": "Madame AI Team | Kai",
+    "totalViews": 16,
+    "nodeCount": 13,
+    "file": "Lead-Generation/13380-Monitor-Clutch-categories-for-new-agencies-with-Br.json"
   },
   "6257": {
     "name": "Automate LinkedIn lead generation and connection requests with Browserflow",
@@ -28827,6 +29605,17 @@
     "totalViews": 3279,
     "nodeCount": 14,
     "file": "Invoice-Processing/6359-Process-receipts-with-Google-Vision-OCR-AI-Telegra.json"
+  },
+  "13215": {
+    "name": "Extract, validate, and log email invoices from Gmail to Google Sheets with GPT-4",
+    "categories": [
+      "Invoice Processing",
+      "AI Summarization"
+    ],
+    "author": "Pratyush Kumar Jha",
+    "totalViews": 35,
+    "nodeCount": 10,
+    "file": "Invoice-Processing/13215-Extract-validate-and-log-email-invoices-from-Gmail.json"
   },
   "7982": {
     "name": "Generate and email PDF invoices from Tally Forms with Google Docs",
@@ -30671,6 +31460,17 @@
     "nodeCount": 8,
     "file": "Invoice-Processing/3998-Automate-medical-billing-with-Google-Sheets-and-Gm.json"
   },
+  "7958": {
+    "name": "Automated outbound calls: connect Ultravox AI agents to phone calls with Twilio",
+    "categories": [
+      "AI Chatbot",
+      "Multimodal AI"
+    ],
+    "author": "Davide",
+    "totalViews": 2376,
+    "nodeCount": 5,
+    "file": "Ultravox.ai/7958-Automated-outbound-calls-connect-Ultravox-AI-agent.json"
+  },
   "2446": {
     "name": "Voice activated multi-agent demo for Vagent.io using Notion and Google Calendar",
     "categories": [
@@ -32440,6 +33240,17 @@
     "totalViews": 58363,
     "nodeCount": 10,
     "file": "Personal-Productivity/2872-AI-agent-chatbot-LONG-TERM-memory-note-storage-Tel.json"
+  },
+  "13309": {
+    "name": "Manage Google Calendar via Telegram and get daily AI briefings (OpenAI + Gemini)",
+    "categories": [
+      "Personal Productivity",
+      "AI Chatbot"
+    ],
+    "author": "Ahmed Salama",
+    "totalViews": 7,
+    "nodeCount": 11,
+    "file": "Personal-Productivity/13309-Manage-Google-Calendar-via-Telegram-and-get-daily.json"
   },
   "10236": {
     "name": "AI-powered n8n release notes summary notifications via Gmail with GPT-5-Mini",
@@ -34347,17 +35158,6 @@
     "nodeCount": 15,
     "file": "Personal-Productivity/2502-Monthly-Spotify-track-archiving-and-playlist-class.json"
   },
-  "9850": {
-    "name": "Automated property & restaurant bookings with AI voice calls via Telegram",
-    "categories": [
-      "Personal Productivity",
-      "AI Chatbot"
-    ],
-    "author": "Juan Carlos Cavero Gracia",
-    "totalViews": 1199,
-    "nodeCount": 10,
-    "file": "Personal-Productivity/9850-Automated-property-restaurant-bookings-with-AI-voi.json"
-  },
   "8234": {
     "name": "AI-powered Gmail and Calendar assistant with Gemini chat interface",
     "categories": [
@@ -34672,6 +35472,17 @@
     "totalViews": 1270,
     "nodeCount": 3,
     "file": "Personal-Productivity/3768-Automatically-create-Google-Tasks-from-Gmail-label.json"
+  },
+  "13152": {
+    "name": "Gamify fitness tracking with GPT-4o-mini multi-agents and Google Sheets",
+    "categories": [
+      "Personal Productivity",
+      "AI Chatbot"
+    ],
+    "author": "TAKUTO ISHIKAWA",
+    "totalViews": 12,
+    "nodeCount": 7,
+    "file": "Personal-Productivity/13152-Gamify-fitness-tracking-with-GPT-4o-mini-multi-age.json"
   },
   "8920": {
     "name": "WhatsApp AI assistant with Claude & GPT4O: multi-format processing & productivity suite",
@@ -36768,6 +37579,17 @@
     "nodeCount": 8,
     "file": "Project-Management/6742-Track-construction-site-progress-with-Google-Gemin.json"
   },
+  "13319": {
+    "name": "Optimize classroom schedules and resolve conflicts with GPT-4o and Google Calendar",
+    "categories": [
+      "Project Management",
+      "AI RAG"
+    ],
+    "author": "Cheng Siong Chin",
+    "totalViews": 31,
+    "nodeCount": 14,
+    "file": "Project-Management/13319-Optimize-classroom-schedules-and-resolve-conflicts.json"
+  },
   "8602": {
     "name": "Automated task generation from blueprints with Baserow & weekend-aware scheduling",
     "categories": [
@@ -37659,6 +38481,16 @@
     "nodeCount": 2,
     "file": "Project-Management/494-Create-a-client-in-Harvest.json"
   },
+  "13165": {
+    "name": "Track inventory levels with automated alerts",
+    "categories": [
+      "Project Management"
+    ],
+    "author": "Manu",
+    "totalViews": 0,
+    "nodeCount": 11,
+    "file": "Project-Management/13165-Track-inventory-levels-with-automated-alerts.json"
+  },
   "2153": {
     "name": "Add a bug to Linear via Slack command",
     "categories": [
@@ -38128,6 +38960,17 @@
     "totalViews": 270,
     "nodeCount": 6,
     "file": "Project-Management/4510-Sprint-cycle-announcements-with-Form-Input-GPT-4-a.json"
+  },
+  "13224": {
+    "name": "Send pre-meeting Slack briefings using Google Calendar, Notion, GitHub, and Jira",
+    "categories": [
+      "Project Management",
+      "AI Chatbot"
+    ],
+    "author": "Intuz ",
+    "totalViews": 14,
+    "nodeCount": 13,
+    "file": "Project-Management/13224-Send-pre-meeting-Slack-briefings-using-Google-Cale.json"
   },
   "10286": {
     "name": "AI meeting summary & action item tracker with Notion, Slack, and Gmail",
@@ -38683,6 +39526,17 @@
     "nodeCount": 5,
     "file": "Ticket-Management/7220-Automated-support-ticket-system-with-Gmail-Trello.json"
   },
+  "13314": {
+    "name": "Route and analyze customer feedback with Qwen3-VL, Tally, PostgreSQL",
+    "categories": [
+      "Ticket Management",
+      "AI Summarization"
+    ],
+    "author": "Neloy Barman",
+    "totalViews": 23,
+    "nodeCount": 13,
+    "file": "Ticket-Management/13314-Route-and-analyze-customer-feedback-with-Qwen3-VL.json"
+  },
   "11628": {
     "name": "AI-powered customer feedback routing with Gmail, Slack, Pipedrive, Zendesk & Notion",
     "categories": [
@@ -39083,17 +39937,6 @@
     "nodeCount": 10,
     "file": "Ticket-Management/2198-Compose-reply-draft-in-Gmail-with-OpenAI-assistant.json"
   },
-  "11649": {
-    "name": "Post-surgery patient triage & follow-up system with Gemini AI, Telegram & Google Suite",
-    "categories": [
-      "Ticket Management",
-      "AI Chatbot"
-    ],
-    "author": "Pixcels Themes",
-    "totalViews": 58,
-    "nodeCount": 11,
-    "file": "Ticket-Management/11649-Post-surgery-patient-triage-follow-up-system-with.json"
-  },
   "8490": {
     "name": "\ud83d\udce9 Automated email management system with GPT-5, multi-agent AI & Pinecone DB",
     "categories": [
@@ -39319,6 +40162,17 @@
     "totalViews": 85,
     "nodeCount": 11,
     "file": "Ticket-Management/11503-Automate-Google-My-Business-responses-with-Gemini.json"
+  },
+  "13203": {
+    "name": "Draft Gmail replies with OpenAI and OpenRouter for an inbox-zero workflow",
+    "categories": [
+      "Ticket Management",
+      "AI RAG"
+    ],
+    "author": "Zac Nielsen",
+    "totalViews": 25,
+    "nodeCount": 13,
+    "file": "Ticket-Management/13203-Draft-Gmail-replies-with-OpenAI-and-OpenRouter-for.json"
   },
   "8752": {
     "name": "AI-powered customer feedback collection with GPT-4o, Google Sheets & Slack alerts",
@@ -39687,6 +40541,17 @@
     "nodeCount": 10,
     "file": "Ticket-Management/12050-Automate-Zoom-attendance-follow-ups-with-recording.json"
   },
+  "13289": {
+    "name": "Triage customer support emails with Groq AI, ClickUp and Google Sheets",
+    "categories": [
+      "Ticket Management",
+      "AI Summarization"
+    ],
+    "author": "Vivekanand M",
+    "totalViews": 1,
+    "nodeCount": 10,
+    "file": "Ticket-Management/13289-Triage-customer-support-emails-with-Groq-AI-ClickU.json"
+  },
   "6537": {
     "name": "Inbox manager (GPT, Google Calendar & Supabase)",
     "categories": [
@@ -40002,6 +40867,17 @@
     "nodeCount": 8,
     "file": "Ticket-Management/8823-Gmail-to-Zendesk-AI-enriched-ticket-creation-with.json"
   },
+  "13221": {
+    "name": "Categorise and label Gmail emails with GPT-4o and OpenAI",
+    "categories": [
+      "Ticket Management",
+      "AI Summarization"
+    ],
+    "author": "Zac Nielsen",
+    "totalViews": 9,
+    "nodeCount": 5,
+    "file": "Ticket-Management/13221-Categorise-and-label-Gmail-emails-with-GPT-4o-and.json"
+  },
   "12927": {
     "name": "Generate and post Apple App Store review replies with Anthropic Claude",
     "categories": [
@@ -40246,6 +41122,17 @@
     "totalViews": 104,
     "nodeCount": 8,
     "file": "Ticket-Management/12028-Moderate-Facebook-comments-with-AI-and-send-report.json"
+  },
+  "13163": {
+    "name": "Route support tickets with SLA tracking, Slack alerts, and Gmail confirmations",
+    "categories": [
+      "Ticket Management",
+      "AI Summarization"
+    ],
+    "author": "Manu",
+    "totalViews": 1,
+    "nodeCount": 10,
+    "file": "Ticket-Management/13163-Route-support-tickets-with-SLA-tracking-Slack-aler.json"
   },
   "11854": {
     "name": "AI-powered ticket triage with multi-model classification & knowledge base",
@@ -40518,6 +41405,17 @@
     "nodeCount": 7,
     "file": "Ticket-Management/12148-Send-return-pickup-reminders-via-WhatsApp-voice-ca.json"
   },
+  "13273": {
+    "name": "Escalate negative Facebook Page reviews to Slack and Supabase tickets",
+    "categories": [
+      "Ticket Management",
+      "AI Summarization"
+    ],
+    "author": "WeblineIndia",
+    "totalViews": 1,
+    "nodeCount": 6,
+    "file": "Ticket-Management/13273-Escalate-negative-Facebook-Page-reviews-to-Slack-a.json"
+  },
   "4279": {
     "name": "\u2709\ufe0f Automated email sorting & drafting for customer support - with AI \ud83e\udd16",
     "categories": [
@@ -40780,6 +41678,16 @@
     "nodeCount": 10,
     "file": "Ticket-Management/9087-Automated-Jira-ticket-responses-with-GPT-4-and-Pin.json"
   },
+  "13231": {
+    "name": "Route Facebook Story replies to Slack, Telegram, and Supabase CRM by region",
+    "categories": [
+      "Ticket Management"
+    ],
+    "author": "WeblineIndia",
+    "totalViews": 4,
+    "nodeCount": 7,
+    "file": "Ticket-Management/13231-Route-Facebook-Story-replies-to-Slack-Telegram-and.json"
+  },
   "10184": {
     "name": "Automate customer support with GPT-4o, Slack, and CRM integration",
     "categories": [
@@ -40886,6 +41794,16 @@
     "totalViews": 61460,
     "nodeCount": 12,
     "file": "Ticket-Management/2454-Auto-categorise-Outlook-emails-with-AI.json"
+  },
+  "13280": {
+    "name": "Route Gmail support emails to Zendesk with spam filtering and duplicate checks",
+    "categories": [
+      "Ticket Management"
+    ],
+    "author": "WeblineIndia",
+    "totalViews": 1,
+    "nodeCount": 7,
+    "file": "Ticket-Management/13280-Route-Gmail-support-emails-to-Zendesk-with-spam-fi.json"
   },
   "10004": {
     "name": "Two-way property repair management system with Google Sheets & Drive",
@@ -41142,6 +42060,16 @@
     "totalViews": 6972,
     "nodeCount": 14,
     "file": "Ticket-Management/2809-Microsoft-Outlook-AI-email-assistant-with-contact.json"
+  },
+  "12904": {
+    "name": "Detect WooCommerce order delays with Gmail and Slack alerts in real time",
+    "categories": [
+      "Ticket Management"
+    ],
+    "author": "WeblineIndia",
+    "totalViews": 0,
+    "nodeCount": 7,
+    "file": "Ticket-Management/12904-Detect-WooCommerce-order-delays-with-Gmail-and-Sla.json"
   },
   "4870": {
     "name": "Automated multilingual Gmail draft reply with OpenAI GPT-4o",
@@ -41432,6 +42360,17 @@
     "totalViews": 621,
     "nodeCount": 9,
     "file": "SecOps/8792-Monitor-VPS-security-with-GPT-4-mini-analysis-via.json"
+  },
+  "13331": {
+    "name": "Assess credential risk and route mitigation actions with GPT-4o-mini",
+    "categories": [
+      "SecOps",
+      "AI Summarization"
+    ],
+    "author": "Cheng Siong Chin",
+    "totalViews": 3,
+    "nodeCount": 10,
+    "file": "SecOps/13331-Assess-credential-risk-and-route-mitigation-action.json"
   },
   "9865": {
     "name": "Monitor PKI certificates & CRLs for expiration with Telegram & SMS alerts",
@@ -41755,6 +42694,17 @@
     "nodeCount": 8,
     "file": "SecOps/5673-Comprehensive-SSL-certificate-monitoring-with-Disc.json"
   },
+  "13229": {
+    "name": "Check file hash reputation with VirusTotal and Slack alerts",
+    "categories": [
+      "SecOps",
+      "AI Summarization"
+    ],
+    "author": "Edson Encinas",
+    "totalViews": 1,
+    "nodeCount": 8,
+    "file": "SecOps/13229-Check-file-hash-reputation-with-VirusTotal-and-Sla.json"
+  },
   "2694": {
     "name": "Ssl expiry alert with SSL-Checker.io",
     "categories": [
@@ -41871,6 +42821,17 @@
     "totalViews": 8662,
     "nodeCount": 10,
     "file": "SecOps/2666-Analyze-sort-suspicious-email-contents-with-ChatGP.json"
+  },
+  "13322": {
+    "name": "Detect and route gameplay security anomalies with GPT-4o, Slack and Sheets",
+    "categories": [
+      "SecOps",
+      "AI Summarization"
+    ],
+    "author": "Cheng Siong Chin",
+    "totalViews": 3,
+    "nodeCount": 14,
+    "file": "SecOps/13322-Detect-and-route-gameplay-security-anomalies-with.json"
   },
   "2676": {
     "name": "Analyze email headers for IP reputation and spoofing detection - Outlook",
@@ -42299,6 +43260,17 @@
     "totalViews": 47,
     "nodeCount": 5,
     "file": "SecOps/9570-Secure-GET-webhooks-with-query-parameter-validatio.json"
+  },
+  "13375": {
+    "name": "Audit browser and proxy fingerprint/IP integrity with GPT-4o, Sheets and Slack",
+    "categories": [
+      "SecOps",
+      "AI Summarization"
+    ],
+    "author": "Madame AI Team | Kai",
+    "totalViews": 2,
+    "nodeCount": 11,
+    "file": "SecOps/13375-Audit-browser-and-proxy-fingerprint-IP-integrity-w.json"
   },
   "2511": {
     "name": "Qualys vulnerability trigger scan subWorkflow",
@@ -42831,6 +43803,16 @@
     "totalViews": 18531,
     "nodeCount": 11,
     "file": "SecOps/4678-Intelligent-AI-digest-for-security-privacy-and-com.json"
+  },
+  "13239": {
+    "name": "Enrich IP addresses with country attribution using IPinfo and Slack alerts",
+    "categories": [
+      "SecOps"
+    ],
+    "author": "Edson Encinas",
+    "totalViews": 1,
+    "nodeCount": 7,
+    "file": "SecOps/13239-Enrich-IP-addresses-with-country-attribution-using.json"
   },
   "7023": {
     "name": "Cybersecurity assistant with GPT-4, Telegram bot & command execution",
@@ -43500,6 +44482,16 @@
     "totalViews": 746,
     "nodeCount": 10,
     "file": "File-Management/9209-Scheduled-monitoring-of-new-modified-files-across.json"
+  },
+  "13317": {
+    "name": "Back up Instagram videos to Google Drive with JSON metadata catalog",
+    "categories": [
+      "File Management"
+    ],
+    "author": "Lucio",
+    "totalViews": 3,
+    "nodeCount": 13,
+    "file": "File-Management/13317-Back-up-Instagram-videos-to-Google-Drive-with-JSON.json"
   },
   "1994": {
     "name": "Move a Nextcloud folder file by file",
@@ -44193,6 +45185,16 @@
     "totalViews": 4878,
     "nodeCount": 6,
     "file": "File-Management/7211-Download-Instagram-reels-videos-with-Telegram-bot.json"
+  },
+  "13300": {
+    "name": "Selectively import workflows from GitHub, including nested folders",
+    "categories": [
+      "File Management"
+    ],
+    "author": "Stephen Anindo",
+    "totalViews": 3,
+    "nodeCount": 13,
+    "file": "File-Management/13300-Selectively-import-workflows-from-GitHub-including.json"
   },
   "3321": {
     "name": "Capture URL screenshots from Google Sheets with ScreenshotOne & save to Drive with Gmail alerts",
@@ -45659,6 +46661,17 @@
     "nodeCount": 10,
     "file": "Internal-Wiki/6706-Query-business-data-with-OpenAI-chatbot-using-RAG.json"
   },
+  "13248": {
+    "name": "Turn websites into RAG chatbot knowledge bases with Apify, OpenAI and Pinecone",
+    "categories": [
+      "Internal Wiki",
+      "AI RAG"
+    ],
+    "author": "Paul Abraham",
+    "totalViews": 30,
+    "nodeCount": 6,
+    "file": "Internal-Wiki/13248-Turn-websites-into-RAG-chatbot-knowledge-bases-wit.json"
+  },
   "9595": {
     "name": "Create a factual learning assistant with RAG, Gemini, Telegram & MongoDB",
     "categories": [
@@ -46130,6 +47143,17 @@
     "nodeCount": 11,
     "file": "Internal-Wiki/8116-Automate-meeting-notes-summaries-with-Gemini-AI-Sl.json"
   },
+  "13147": {
+    "name": "Chat with Google Drive documents using Pinecone and OpenAI RAG",
+    "categories": [
+      "Internal Wiki",
+      "AI RAG"
+    ],
+    "author": "Alberto Idrio",
+    "totalViews": 70,
+    "nodeCount": 19,
+    "file": "Internal-Wiki/13147-Chat-with-Google-Drive-documents-using-Pinecone-an.json"
+  },
   "4689": {
     "name": "Build a chatbot with Reinforced Learning Human Feedback (RLHF) and RAG",
     "categories": [
@@ -46248,6 +47272,17 @@
     "totalViews": 39984,
     "nodeCount": 10,
     "file": "Internal-Wiki/2397-IT-ops-AI-SlackBot-workflow-chat-with-your-knowled.json"
+  },
+  "13270": {
+    "name": "Use skills In n8n agent node",
+    "categories": [
+      "Internal Wiki",
+      "AI Chatbot"
+    ],
+    "author": "Liam McGarrigle",
+    "totalViews": 1562,
+    "nodeCount": 10,
+    "file": "Internal-Wiki/13270-Use-skills-In-n8n-agent-node.json"
   },
   "11468": {
     "name": "Build a RAG agent with n8n, Qdrant & OpenAI",
@@ -46402,17 +47437,6 @@
     "nodeCount": 24,
     "file": "Internal-Wiki/2982-AI-powered-RAG-chatbot-for-your-docs-Google-Drive.json"
   },
-  "11269": {
-    "name": "Build enterprise RAG system with Google Gemini file search & retell AI voice",
-    "categories": [
-      "Internal Wiki",
-      "AI RAG"
-    ],
-    "author": "Sandeep Patharkar | www.FastTrackAiMastery.com",
-    "totalViews": 206,
-    "nodeCount": 12,
-    "file": "Internal-Wiki/11269-Build-enterprise-RAG-system-with-Google-Gemini-fil.json"
-  },
   "2850": {
     "name": "BambooHR AI-powered company policies and benefits chatbot",
     "categories": [
@@ -46533,6 +47557,17 @@
     "totalViews": 9401,
     "nodeCount": 9,
     "file": "Internal-Wiki/5011-Save-Costs-In-RAG-Workflows-using-the-Q-A-Tool-Wit.json"
+  },
+  "13195": {
+    "name": "Search Slack for n8n templates with OpenAI tips, Google Sheets cache and weekly analytics",
+    "categories": [
+      "Internal Wiki",
+      "AI Chatbot"
+    ],
+    "author": "Masaki Go",
+    "totalViews": 6,
+    "nodeCount": 10,
+    "file": "Internal-Wiki/13195-Search-Slack-for-n8n-templates-with-OpenAI-tips-Go.json"
   },
   "6994": {
     "name": "Build a retrieval-based chatbot with Telegram, OpenAI and Google Drive PDF backup",
@@ -47820,6 +48855,17 @@
     "nodeCount": 5,
     "file": "Engineering/4972-Monitor-AI-chat-interactions-with-Gemini-2-5-and-L.json"
   },
+  "13341": {
+    "name": "Route revenue transactions and assess AI outputs with Anthropic Claude and OpenAI",
+    "categories": [
+      "Engineering",
+      "AI Summarization"
+    ],
+    "author": "Cheng Siong Chin",
+    "totalViews": 8,
+    "nodeCount": 13,
+    "file": "Engineering/13341-Route-revenue-transactions-and-assess-AI-outputs-w.json"
+  },
   "2331": {
     "name": "Build your own image search using AI object detection, CDN and ElasticSearch",
     "categories": [
@@ -48608,6 +49654,17 @@
     "totalViews": 406,
     "nodeCount": 2,
     "file": "Engineering/9635-Integrate-Google-Workspace-with-ChatGPT-OpenAI-Age.json"
+  },
+  "13337": {
+    "name": "Monitor supply chain risks and disruptions with GPT-4o and Slack alerts",
+    "categories": [
+      "Engineering",
+      "AI Summarization"
+    ],
+    "author": "Cheng Siong Chin",
+    "totalViews": 6,
+    "nodeCount": 14,
+    "file": "Engineering/13337-Monitor-supply-chain-risks-and-disruptions-with-GP.json"
   },
   "10337": {
     "name": "Track SDK documentation drift with GitHub, Notion, Google Sheets, and Slack",
@@ -49831,6 +50888,17 @@
     "nodeCount": 11,
     "file": "Engineering/12789-Build-a-full-REST-API-with-n8n-webhooks.json"
   },
+  "13316": {
+    "name": "Evaluate supply chain risk and orchestrate contingencies with Claude, Google Sheets, Gmail and Slack",
+    "categories": [
+      "Engineering",
+      "AI Summarization"
+    ],
+    "author": "Cheng Siong Chin",
+    "totalViews": 3,
+    "nodeCount": 12,
+    "file": "Engineering/13316-Evaluate-supply-chain-risk-and-orchestrate-conting.json"
+  },
   "6291": {
     "name": "Query MySQL database with natural language using GPT AI",
     "categories": [
@@ -50235,6 +51303,17 @@
     "totalViews": 709,
     "nodeCount": 2,
     "file": "Engineering/5178-Microsoft-SharePoint-tool-MCP-Server-all-11-operat.json"
+  },
+  "13308": {
+    "name": "Orchestrate patient admission, discharge and post-care with NVIDIA and Claude",
+    "categories": [
+      "Engineering",
+      "AI Chatbot"
+    ],
+    "author": "Cheng Siong Chin",
+    "totalViews": 4,
+    "nodeCount": 14,
+    "file": "Engineering/13308-Orchestrate-patient-admission-discharge-and-post-c.json"
   },
   "5319": {
     "name": "AI agent managed tables and views with \ud83d\udee0\ufe0f Coda tool MCP server \ud83d\udcaa 18 operations",
@@ -51735,6 +52814,17 @@
     "nodeCount": 2,
     "file": "Engineering/5570-eBay-analytics-API-rate-limit-monitoring-for-AI-ag.json"
   },
+  "13238": {
+    "name": "Process multiple requests in FIFO using OpenAI Batch API and Supabase/Postgres",
+    "categories": [
+      "Engineering",
+      "AI Summarization"
+    ],
+    "author": "Teng Wei Herr",
+    "totalViews": 15,
+    "nodeCount": 10,
+    "file": "Engineering/13238-Process-multiple-requests-in-FIFO-using-OpenAI-Bat.json"
+  },
   "11495": {
     "name": "Automatically optimize AI prompts with OpenAI using OPRO & DSPy methodology",
     "categories": [
@@ -52264,6 +53354,17 @@
     "nodeCount": 14,
     "file": "Document-Extraction/2392-Telegram-chat-with-PDF.json"
   },
+  "13232": {
+    "name": "Generate AI sales proposals using Anthropic Claude, PDF Noodle and your CRM",
+    "categories": [
+      "Document Extraction",
+      "AI Summarization"
+    ],
+    "author": "Marcelo Abreu",
+    "totalViews": 3,
+    "nodeCount": 8,
+    "file": "Document-Extraction/13232-Generate-AI-sales-proposals-using-Anthropic-Claude.json"
+  },
   "10566": {
     "name": "Process large documents with OCR using SubworkflowAI and Gemini",
     "categories": [
@@ -52424,6 +53525,17 @@
     "totalViews": 5161,
     "nodeCount": 6,
     "file": "Document-Extraction/4370-Auto-meeting-summarizer-with-Google-Drive-OpenAI-W.json"
+  },
+  "13313": {
+    "name": "Monitor AI infrastructure costs and route budget alerts with Claude, NVIDIA, Slack, and Gmail",
+    "categories": [
+      "Document Extraction",
+      "AI Summarization"
+    ],
+    "author": "Cheng Siong Chin",
+    "totalViews": 4,
+    "nodeCount": 12,
+    "file": "Document-Extraction/13313-Monitor-AI-infrastructure-costs-and-route-budget-a.json"
   },
   "10316": {
     "name": "Automate assignment grading with GPT-4-Turbo and multi-format reports",
@@ -52736,6 +53848,17 @@
     "nodeCount": 6,
     "file": "Document-Extraction/9837-Auto-generate-developer-invoices-compliance-remind.json"
   },
+  "13148": {
+    "name": "Summarize Gmail into Notion with OpenAI and create audio digests in Google Drive",
+    "categories": [
+      "Document Extraction",
+      "AI Summarization"
+    ],
+    "author": "Alberto Idrio",
+    "totalViews": 46,
+    "nodeCount": 10,
+    "file": "Document-Extraction/13148-Summarize-Gmail-into-Notion-with-OpenAI-and-create.json"
+  },
   "3119": {
     "name": "Create a REST API for PDF digital signatures with webhooks",
     "categories": [
@@ -52766,6 +53889,17 @@
     "totalViews": 545,
     "nodeCount": 8,
     "file": "Document-Extraction/9839-Extract-medical-reports-generate-AI-health-advice.json"
+  },
+  "13318": {
+    "name": "Monitor employee policy compliance with GPT-4, Slack, and email alerts",
+    "categories": [
+      "Document Extraction",
+      "AI Summarization"
+    ],
+    "author": "Cheng Siong Chin",
+    "totalViews": 2,
+    "nodeCount": 10,
+    "file": "Document-Extraction/13318-Monitor-employee-policy-compliance-with-GPT-4-Slac.json"
   },
   "5593": {
     "name": "Extract data from driver license uploads with VLM Run, Google Drive and Sheets",
@@ -52809,6 +53943,17 @@
     "totalViews": 49,
     "nodeCount": 9,
     "file": "Document-Extraction/11984-Automate-end-to-end-contract-signatures-with-Googl.json"
+  },
+  "12868": {
+    "name": "Extract passport data with OpenAI OCR and generate QR codes",
+    "categories": [
+      "Document Extraction",
+      "AI Summarization"
+    ],
+    "author": "ICTS Automation",
+    "totalViews": 27,
+    "nodeCount": 9,
+    "file": "Document-Extraction/12868-Extract-passport-data-with-OpenAI-OCR-and-generate.json"
   },
   "1734": {
     "name": "Import a JSON file from Gmail into a spreadsheet",
@@ -53287,6 +54432,17 @@
     "nodeCount": 16,
     "file": "Document-Extraction/10996-Chat-with-news-articles-using-AI-analysis-in-Teleg.json"
   },
+  "12376": {
+    "name": "Log failed WooCommerce orders to Airtable and send OpenAI-powered Slack alerts",
+    "categories": [
+      "Document Extraction",
+      "AI Summarization"
+    ],
+    "author": "WeblineIndia",
+    "totalViews": 0,
+    "nodeCount": 11,
+    "file": "Document-Extraction/12376-Log-failed-WooCommerce-orders-to-Airtable-and-send.json"
+  },
   "13032": {
     "name": "Decrypt legacy PDF archives with HTML to PDF, PostgreSQL and Google Drive",
     "categories": [
@@ -53434,6 +54590,17 @@
     "totalViews": 3986,
     "nodeCount": 5,
     "file": "Document-Extraction/5507-Analyze-images-from-forms-using-GPT-4o-mini-Vision.json"
+  },
+  "13137": {
+    "name": "Validate and orchestrate lawsuit responses with OpenAI and Google Sheets",
+    "categories": [
+      "Document Extraction",
+      "AI Summarization"
+    ],
+    "author": "Cheng Siong Chin",
+    "totalViews": 5,
+    "nodeCount": 12,
+    "file": "Document-Extraction/13137-Validate-and-orchestrate-lawsuit-responses-with-Op.json"
   },
   "6372": {
     "name": "AI-powered auto-translate Google Slides presentation to any language with Gemini",
@@ -54190,6 +55357,17 @@
     "nodeCount": 3,
     "file": "Document-Extraction/1282-Send-a-file-from-S3-to-AWS-Textract.json"
   },
+  "13339": {
+    "name": "Track legal case deadlines and exceptions with Anthropic, court APIs, Gmail and Slack",
+    "categories": [
+      "Document Extraction",
+      "AI Summarization"
+    ],
+    "author": "Cheng Siong Chin",
+    "totalViews": 23,
+    "nodeCount": 11,
+    "file": "Document-Extraction/13339-Track-legal-case-deadlines-and-exceptions-with-Ant.json"
+  },
   "4270": {
     "name": "WebhookDocs: generate swagger preview of your active workflows",
     "categories": [
@@ -54415,6 +55593,17 @@
     "totalViews": 5852,
     "nodeCount": 6,
     "file": "Document-Extraction/3149-Image-based-data-extraction-API-using-Gemini-AI.json"
+  },
+  "13330": {
+    "name": "Detect procurement fraud and monitor supplier compliance with GPT-4o and Slack",
+    "categories": [
+      "Document Extraction",
+      "AI Summarization"
+    ],
+    "author": "Cheng Siong Chin",
+    "totalViews": 14,
+    "nodeCount": 15,
+    "file": "Document-Extraction/13330-Detect-procurement-fraud-and-monitor-supplier-comp.json"
   },
   "8697": {
     "name": "Transform spreadsheet data into smart charts with OpenAI, QuickChart & Google Drive",
@@ -55945,6 +57134,17 @@
     "nodeCount": 7,
     "file": "Document-Extraction/8073-Generate-PRDs-and-test-scenarios-with-GPT-Claude-a.json"
   },
+  "13338": {
+    "name": "Validate property compliance risk and orchestrate actions with OpenAI, Google Calendar, Gmail, Slack, and Google Sheets",
+    "categories": [
+      "Document Extraction",
+      "AI Summarization"
+    ],
+    "author": "Cheng Siong Chin",
+    "totalViews": 0,
+    "nodeCount": 13,
+    "file": "Document-Extraction/13338-Validate-property-compliance-risk-and-orchestrate.json"
+  },
   "694": {
     "name": "Transform data in Google Sheets",
     "categories": [
@@ -57091,16 +58291,6 @@
     "nodeCount": 9,
     "file": "Document-Extraction/8279-Extract-store-receipt-data-with-GPT-4-OCR-Google-S.json"
   },
-  "3504": {
-    "name": "Store retell transcripts in Sheets, Airtable or Notion from webhook",
-    "categories": [
-      "Document Extraction"
-    ],
-    "author": "Agent Studio",
-    "totalViews": 2302,
-    "nodeCount": 7,
-    "file": "Document-Extraction/3504-Store-retell-transcripts-in-Sheets-Airtable-or-Not.json"
-  },
   "8420": {
     "name": "Classify & extract data from floorplans with Mistral AI OCR & JigsawStack",
     "categories": [
@@ -57886,6 +59076,17 @@
     "nodeCount": 13,
     "file": "Document-Extraction/11883-Convert-audio-emails-to-Japanese-transcripts-with.json"
   },
+  "13272": {
+    "name": "Send weekly WooCommerce finance KPIs to Slack using HTTP APIs",
+    "categories": [
+      "Document Extraction",
+      "AI Summarization"
+    ],
+    "author": "WeblineIndia",
+    "totalViews": 7,
+    "nodeCount": 8,
+    "file": "Document-Extraction/13272-Send-weekly-WooCommerce-finance-KPIs-to-Slack-usin.json"
+  },
   "585": {
     "name": "Extract text from a PDF file",
     "categories": [
@@ -58123,6 +59324,17 @@
     "nodeCount": 11,
     "file": "Document-Extraction/12790-Monitor-revenue-tax-compliance-and-auto-correct-an.json"
   },
+  "13311": {
+    "name": "Monitor and enforce seller compliance with GPT-4o, email alerts and Slack",
+    "categories": [
+      "Document Extraction",
+      "AI Summarization"
+    ],
+    "author": "Cheng Siong Chin",
+    "totalViews": 1,
+    "nodeCount": 11,
+    "file": "Document-Extraction/13311-Monitor-and-enforce-seller-compliance-with-GPT-4o.json"
+  },
   "3093": {
     "name": "Extract pay slip data with Line Chatbot and Gemini to Google Sheets",
     "categories": [
@@ -58264,6 +59476,17 @@
     "nodeCount": 9,
     "file": "Document-Extraction/10174-PPC-campaign-intelligence-optimization-with-Google.json"
   },
+  "13353": {
+    "name": "Ingest and enrich Q&A pairs then store in Data Table [1/2]",
+    "categories": [
+      "Document Extraction",
+      "AI Summarization"
+    ],
+    "author": "Max Tkacz",
+    "totalViews": 179,
+    "nodeCount": 8,
+    "file": "Document-Extraction/13353-Ingest-and-enrich-Q-A-pairs-then-store-in-Data-Tab.json"
+  },
   "5599": {
     "name": "Find the best favicon from multiple sources with GPT-4 vision analysis",
     "categories": [
@@ -58340,6 +59563,17 @@
     "totalViews": 341,
     "nodeCount": 14,
     "file": "Document-Extraction/8467-Extract-store-recently-added-n8n-community-workflo.json"
+  },
+  "13264": {
+    "name": "Ingest Excel data into Oracle and chat with it using Select AI and Azure OpenAI",
+    "categories": [
+      "Document Extraction",
+      "AI RAG"
+    ],
+    "author": "Saumil Diwaker",
+    "totalViews": 45,
+    "nodeCount": 9,
+    "file": "Document-Extraction/13264-Ingest-Excel-data-into-Oracle-and-chat-with-it-usi.json"
   },
   "3871": {
     "name": "Convert HTML to PDF & extract text from PDFs with CustomJS API",
@@ -58493,6 +59727,17 @@
     "nodeCount": 11,
     "file": "Document-Extraction/3517-Import-Google-Keep-notes-to-Google-Sheets-using-Op.json"
   },
+  "11533": {
+    "name": "Generate course certificates from Google Sheets with Stencil PDF and Outlook",
+    "categories": [
+      "Document Extraction",
+      "Multimodal AI"
+    ],
+    "author": " Leon Kirschner",
+    "totalViews": 11,
+    "nodeCount": 11,
+    "file": "Document-Extraction/11533-Generate-course-certificates-from-Google-Sheets-wi.json"
+  },
   "2904": {
     "name": "Arxiv paper summarization with ChatGPT",
     "categories": [
@@ -58535,6 +59780,17 @@
     "totalViews": 71,
     "nodeCount": 9,
     "file": "Document-Extraction/10997-Automate-X-ray-analysis-with-VLM-Orion-and-distrib.json"
+  },
+  "11451": {
+    "name": "Summarize PDF documents in Telegram with Groq AI",
+    "categories": [
+      "Document Extraction",
+      "AI Summarization"
+    ],
+    "author": "EoCi - Mr.Eo",
+    "totalViews": 16,
+    "nodeCount": 10,
+    "file": "Document-Extraction/11451-Summarize-PDF-documents-in-Telegram-with-Groq-AI.json"
   },
   "12346": {
     "name": "Generate visual resumes from Telegram using Google Gemini and BrowserAct",
@@ -59093,6 +60349,16 @@
     "nodeCount": 12,
     "file": "Market-Research/6408-Multi-platform-price-finder-Scraping-prices-with-B.json"
   },
+  "13298": {
+    "name": "Monitor Google Search rankings with SerpApi and Google Sheets",
+    "categories": [
+      "Market Research"
+    ],
+    "author": "SerpApi",
+    "totalViews": 2,
+    "nodeCount": 7,
+    "file": "Market-Research/13298-Monitor-Google-Search-rankings-with-SerpApi-and-Go.json"
+  },
   "12105": {
     "name": "Automate launch intelligence with Hacker News, Asana, GPT & Slack/Email digests",
     "categories": [
@@ -59498,6 +60764,17 @@
     "nodeCount": 11,
     "file": "Market-Research/2123-Simple-Google-indexing-workflow-in-n8n.json"
   },
+  "13384": {
+    "name": "Monitor competitor campaigns weekly using BrowserAct, OpenRouter, Google Sheets and Slack",
+    "categories": [
+      "Market Research",
+      "AI Summarization"
+    ],
+    "author": "Madame AI Team | Kai",
+    "totalViews": 60,
+    "nodeCount": 10,
+    "file": "Market-Research/13384-Monitor-competitor-campaigns-weekly-using-BrowserA.json"
+  },
   "5416": {
     "name": "Scrape AI news from multiple sources to Markdown & Google Drive with RSS.app",
     "categories": [
@@ -59646,6 +60923,28 @@
     "totalViews": 1157,
     "nodeCount": 6,
     "file": "Market-Research/8618-Inventory-ABC-Pareto-analysis-with-Google-Sheets-f.json"
+  },
+  "13234": {
+    "name": "Extract and analyze \ud83d\udd2c ALL Facebook post comments with sentiment AI using Gemini",
+    "categories": [
+      "Market Research",
+      "AI Summarization"
+    ],
+    "author": "Davide",
+    "totalViews": 64,
+    "nodeCount": 13,
+    "file": "Market-Research/13234-Extract-and-analyze-ALL-Facebook-post-comments-wit.json"
+  },
+  "13271": {
+    "name": "Chat Hub Web Search Agent with Tavily Search",
+    "categories": [
+      "Market Research",
+      "AI Chatbot"
+    ],
+    "author": "Liam McGarrigle",
+    "totalViews": 422,
+    "nodeCount": 5,
+    "file": "Market-Research/13271-Chat-Hub-Web-Search-Agent-with-Tavily-Search.json"
   },
   "2267": {
     "name": "Extract Title tag and Meta description from url for SEO analysis with Airtable",
@@ -60142,6 +61441,17 @@
     "nodeCount": 8,
     "file": "Market-Research/9894-Scrape-summarize-Product-Hunt-feedback-with-Browse.json"
   },
+  "13385": {
+    "name": "Research and summarize B2B leads from Google Sheets to Airtable with BrowserAct",
+    "categories": [
+      "Market Research",
+      "AI Summarization"
+    ],
+    "author": "Madame AI Team | Kai",
+    "totalViews": 47,
+    "nodeCount": 9,
+    "file": "Market-Research/13385-Research-and-summarize-B2B-leads-from-Google-Sheet.json"
+  },
   "2643": {
     "name": "Intelligent web query and semantic re-ranking flow using Brave and Google Gemini",
     "categories": [
@@ -60204,6 +61514,17 @@
     "totalViews": 866,
     "nodeCount": 7,
     "file": "Market-Research/6698-Daily-SEO-audit-workflow-with-HTML-reports-via-Gma.json"
+  },
+  "13374": {
+    "name": "Scrape industry growth signals with BrowserAct, OpenRouter, and Slack reports",
+    "categories": [
+      "Market Research",
+      "AI Summarization"
+    ],
+    "author": "Madame AI Team | Kai",
+    "totalViews": 0,
+    "nodeCount": 8,
+    "file": "Market-Research/13374-Scrape-industry-growth-signals-with-BrowserAct-Ope.json"
   },
   "6115": {
     "name": "Generate SEO-optimized titles & meta descriptions with Bright Data & Gemini AI",
@@ -60657,6 +61978,17 @@
     "totalViews": 161,
     "nodeCount": 10,
     "file": "Market-Research/11803-Track-e-commerce-price-changes-with-ScrapeGraphAI.json"
+  },
+  "13335": {
+    "name": "Analyze public consultation data and coordinate governance with Claude AI",
+    "categories": [
+      "Market Research",
+      "AI Summarization"
+    ],
+    "author": "Cheng Siong Chin",
+    "totalViews": 3,
+    "nodeCount": 14,
+    "file": "Market-Research/13335-Analyze-public-consultation-data-and-coordinate-go.json"
   },
   "6663": {
     "name": "Automated Web Scraper: Niche Job/Product Monitor With Telegram Alert",
@@ -62219,6 +63551,17 @@
     "nodeCount": 9,
     "file": "Market-Research/12073-Healthcare-policy-monitoring-with-ScrapeGraphAI-Pi.json"
   },
+  "13261": {
+    "name": "Multi-AI Council Research \ud83d\udd0d: GPT 5.2, Claude Opus 4.6 & Gemini 3 Pro Aggregation",
+    "categories": [
+      "Market Research",
+      "AI Chatbot"
+    ],
+    "author": "Davide",
+    "totalViews": 91,
+    "nodeCount": 10,
+    "file": "Market-Research/13261-Multi-AI-Council-Research-GPT-5-2-Claude-Opus-4-6.json"
+  },
   "8355": {
     "name": "Monitor brand mentions on X with Gemini AI visual analysis & Telegram alerts",
     "categories": [
@@ -63341,6 +64684,17 @@
     "nodeCount": 5,
     "file": "Market-Research/5668-Track-top-YouTube-videos-by-view-count-with-Google.json"
   },
+  "13378": {
+    "name": "Track brand visibility on Perplexity and ChatGPT with BrowserAct and OpenRouter",
+    "categories": [
+      "Market Research",
+      "AI Summarization"
+    ],
+    "author": "Madame AI Team | Kai",
+    "totalViews": 1,
+    "nodeCount": 8,
+    "file": "Market-Research/13378-Track-brand-visibility-on-Perplexity-and-ChatGPT-w.json"
+  },
   "6626": {
     "name": "Analyze property maintenance costs with ScrapeGraphAI and budget planning",
     "categories": [
@@ -63513,6 +64867,17 @@
     "totalViews": 141,
     "nodeCount": 8,
     "file": "Market-Research/8928-Generate-SEO-anchor-texts-from-Google-Sheets-with.json"
+  },
+  "13377": {
+    "name": "Monitor product prices with Decodo, Google Sheets, Gemini and Gmail",
+    "categories": [
+      "Market Research",
+      "AI Summarization"
+    ],
+    "author": "Zain Khan",
+    "totalViews": 15,
+    "nodeCount": 10,
+    "file": "Market-Research/13377-Monitor-product-prices-with-Decodo-Google-Sheets-G.json"
   },
   "5957": {
     "name": "Analyze competitor content performance with Bright Data MCP & GPT-4o",
@@ -63989,6 +65354,17 @@
     "nodeCount": 8,
     "file": "Market-Research/9895-Monitor-Shopify-stores-for-new-products-with-Brows.json"
   },
+  "13189": {
+    "name": "Collect reviews, analyze sentiment, and generate reports with Decodo and Google Gemini",
+    "categories": [
+      "Market Research",
+      "AI Summarization"
+    ],
+    "author": "Zain Khan",
+    "totalViews": 0,
+    "nodeCount": 10,
+    "file": "Market-Research/13189-Collect-reviews-analyze-sentiment-and-generate-rep.json"
+  },
   "12937": {
     "name": "Scrape Google Maps business data with BrowserAct and Google Sheets",
     "categories": [
@@ -64248,6 +65624,17 @@
     "nodeCount": 16,
     "file": "Market-Research/4235-Monitor-and-track-brand-Sentiment-on-Facebook-Grou.json"
   },
+  "12934": {
+    "name": "Summarize YouTube videos in Slack using AssemblyAI transcription and OpenAI",
+    "categories": [
+      "Market Research",
+      "AI Summarization"
+    ],
+    "author": "Marsel Bait",
+    "totalViews": 13,
+    "nodeCount": 8,
+    "file": "Market-Research/12934-Summarize-YouTube-videos-in-Slack-using-AssemblyAI.json"
+  },
   "6409": {
     "name": "Analyze blog SEO with AI: complete assessment using GPT-4 and ethical scraping",
     "categories": [
@@ -64354,6 +65741,17 @@
     "totalViews": 450,
     "nodeCount": 5,
     "file": "Market-Research/4208-Extract-and-structure-X-Post-Comments-with-Airtop.json"
+  },
+  "13249": {
+    "name": "Analyze website page gaps with GPT-4.1-mini, Perplexity, and Google Docs",
+    "categories": [
+      "Market Research",
+      "AI RAG"
+    ],
+    "author": "isaWOW",
+    "totalViews": 14,
+    "nodeCount": 7,
+    "file": "Market-Research/13249-Analyze-website-page-gaps-with-GPT-4-1-mini-Perple.json"
   },
   "10115": {
     "name": "Track Amazon product prices with ScrapeGraphAI, Google Sheets & Telegram alerts",
@@ -65020,6 +66418,16 @@
     "nodeCount": 7,
     "file": "Market-Research/8242-SEO-competitor-analysis-with-RapidAPI-and-Google-S.json"
   },
+  "13332": {
+    "name": "Track new ranked keywords in Google Sheets with DataForSEO and Slack alerts",
+    "categories": [
+      "Market Research"
+    ],
+    "author": "DataForSEO",
+    "totalViews": 2,
+    "nodeCount": 11,
+    "file": "Market-Research/13332-Track-new-ranked-keywords-in-Google-Sheets-with-Da.json"
+  },
   "3806": {
     "name": "Track Amazon product prices with ScrapeOps API & Google Sheets alerts",
     "categories": [
@@ -65489,6 +66897,17 @@
     "nodeCount": 7,
     "file": "Market-Research/3588-Track-daily-Product-Hunt-launches-with-website-ver.json"
   },
+  "13379": {
+    "name": "Track competitor pricing and features with BrowserAct and Google Sheets",
+    "categories": [
+      "Market Research",
+      "AI Summarization"
+    ],
+    "author": "Madame AI Team | Kai",
+    "totalViews": 5,
+    "nodeCount": 10,
+    "file": "Market-Research/13379-Track-competitor-pricing-and-features-with-Browser.json"
+  },
   "11306": {
     "name": "Transform NASA patents into business ideas with OpenAI and send to Google Sheets & Slack",
     "categories": [
@@ -65707,6 +67126,17 @@
     "totalViews": 110,
     "nodeCount": 8,
     "file": "Market-Research/11682-Extract-company-data-from-websites-with-Gemini-AI.json"
+  },
+  "13373": {
+    "name": "Run a multi-agent SEO domain audit with SE Ranking and Claude",
+    "categories": [
+      "Market Research",
+      "AI Chatbot"
+    ],
+    "author": "Eugene",
+    "totalViews": 14,
+    "nodeCount": 11,
+    "file": "Market-Research/13373-Run-a-multi-agent-SEO-domain-audit-with-SE-Ranking.json"
   },
   "11879": {
     "name": "Generate comprehensive client brief reports with Llama 3 AI & Google Workspace",
@@ -66953,6 +68383,17 @@
     "nodeCount": 11,
     "file": "Market-Research/12435-Find-cheap-flight-deals-using-Google-Gemini-GPT-4.json"
   },
+  "13181": {
+    "name": "Send a daily media briefing email with GPT-4.1-mini, NewsAPI, Gmail and Google Sheets",
+    "categories": [
+      "Market Research",
+      "AI Summarization"
+    ],
+    "author": "Timo",
+    "totalViews": 17,
+    "nodeCount": 12,
+    "file": "Market-Research/13181-Send-a-daily-media-briefing-email-with-GPT-4-1-min.json"
+  },
   "12654": {
     "name": "Scrape Trustpilot reviews \ud83d\udcca with ScrapegraphAI and OpenAI Reputation analysis",
     "categories": [
@@ -67644,6 +69085,17 @@
     "nodeCount": 18,
     "file": "Market-Research/3107-Startup-funding-research-automation-with-Claude-Pe.json"
   },
+  "13187": {
+    "name": "Scrape job listings and send alerts using Decodo, Google Gemini, Slack, and Gmail",
+    "categories": [
+      "Market Research",
+      "AI Summarization"
+    ],
+    "author": "Zain Khan",
+    "totalViews": 29,
+    "nodeCount": 11,
+    "file": "Market-Research/13187-Scrape-job-listings-and-send-alerts-using-Decodo-G.json"
+  },
   "4788": {
     "name": "Automated weekly tech stack reports with BuiltWith, GPT-4o & Gmail",
     "categories": [
@@ -68049,6 +69501,17 @@
     "totalViews": 1325,
     "nodeCount": 7,
     "file": "Market-Research/5961-Analyze-Amazon-purchase-trends-with-Bright-Data-Op.json"
+  },
+  "12084": {
+    "name": "Research content keywords with SE Ranking and export to Google Sheets",
+    "categories": [
+      "Market Research",
+      "AI Summarization"
+    ],
+    "author": "Eugene",
+    "totalViews": 20,
+    "nodeCount": 5,
+    "file": "Market-Research/12084-Research-content-keywords-with-SE-Ranking-and-expo.json"
   },
   "3751": {
     "name": "Real-time crypto news & sentiment analysis via Telegram with GPT-4o",
@@ -73491,6 +74954,17 @@
     "nodeCount": 9,
     "file": "Social-Media/8559-Create-post-social-media-carousels-across-5-platfo.json"
   },
+  "13216": {
+    "name": "Post AI news to Telegram with Google Gemini and human approval",
+    "categories": [
+      "Social Media",
+      "AI Summarization"
+    ],
+    "author": "Natnail Getachew",
+    "totalViews": 148,
+    "nodeCount": 9,
+    "file": "Social-Media/13216-Post-AI-news-to-Telegram-with-Google-Gemini-and-hu.json"
+  },
   "1514": {
     "name": "Bulk emails with personalized attachment",
     "categories": [
@@ -74285,6 +75759,17 @@
     "nodeCount": 6,
     "file": "Social-Media/4412-Weekly-AI-News-Digest-with-Perplexity-AI-and-Gmail.json"
   },
+  "13334": {
+    "name": "Repurpose blog articles into social media posts with Google Gemini AI",
+    "categories": [
+      "Social Media",
+      "Multimodal AI"
+    ],
+    "author": "Oka Hironobu",
+    "totalViews": 14,
+    "nodeCount": 8,
+    "file": "Social-Media/13334-Repurpose-blog-articles-into-social-media-posts-wi.json"
+  },
   "9385": {
     "name": "Automate LinkedIn engagement with GPT-4o sentiment analysis & smart comments",
     "categories": [
@@ -74582,6 +76067,17 @@
     "totalViews": 606,
     "nodeCount": 7,
     "file": "Social-Media/7520-Automated-quiz-delivery-from-Google-Sheets-to-Tele.json"
+  },
+  "13382": {
+    "name": "Post curated remote job listings to Slack with BrowserAct and OpenRouter",
+    "categories": [
+      "Social Media",
+      "AI Summarization"
+    ],
+    "author": "Madame AI Team | Kai",
+    "totalViews": 27,
+    "nodeCount": 9,
+    "file": "Social-Media/13382-Post-curated-remote-job-listings-to-Slack-with-Bro.json"
   },
   "11638": {
     "name": "Bulk auto-publish videos to social networks with AI copy and client approval",
@@ -74925,6 +76421,16 @@
     "nodeCount": 9,
     "file": "Social-Media/10182-Automate-Reddit-brand-monitoring-responses-with-GP.json"
   },
+  "13301": {
+    "name": "Schedule Facebook posts from Google Sheets with approval and Drive images",
+    "categories": [
+      "Social Media"
+    ],
+    "author": "isaWOW",
+    "totalViews": 44,
+    "nodeCount": 10,
+    "file": "Social-Media/13301-Schedule-Facebook-posts-from-Google-Sheets-with-ap.json"
+  },
   "11079": {
     "name": "Transform Long-Form Content into Social Snippets with GPT-4o-mini and Meta Auto-Publishing",
     "categories": [
@@ -75086,6 +76592,16 @@
     "nodeCount": 15,
     "file": "Social-Media/7217-Auto-comment-on-Reddit-posts-with-AI-brand-mention.json"
   },
+  "13304": {
+    "name": "Schedule approved LinkedIn page posts from Google Sheets with precise timing",
+    "categories": [
+      "Social Media"
+    ],
+    "author": "isaWOW",
+    "totalViews": 18,
+    "nodeCount": 9,
+    "file": "Social-Media/13304-Schedule-approved-LinkedIn-page-posts-from-Google.json"
+  },
   "8170": {
     "name": "Weekly gratitude pulse: Automated appreciation DMs for Slack & Discord communities",
     "categories": [
@@ -75212,6 +76728,16 @@
     "totalViews": 3670,
     "nodeCount": 15,
     "file": "Social-Media/3684-AI-powered-sustainability-newsletter-for-marketing.json"
+  },
+  "13164": {
+    "name": "Send notifications across email, Slack, and webhook channels",
+    "categories": [
+      "Social Media"
+    ],
+    "author": "Manu",
+    "totalViews": 21,
+    "nodeCount": 9,
+    "file": "Social-Media/13164-Send-notifications-across-email-Slack-and-webhook.json"
   },
   "9032": {
     "name": "Generate personalized promo cards with email verification, Gmail & Google Sheets",
@@ -75850,6 +77376,17 @@
     "nodeCount": 6,
     "file": "Social-Media/8663-Daily-Bible-verse-reflection-email-with-bible-api.json"
   },
+  "13323": {
+    "name": "Cross-post social content from Google Sheets to 5 platforms with OpenAI images",
+    "categories": [
+      "Social Media",
+      "Multimodal AI"
+    ],
+    "author": "Vincent Nguyen",
+    "totalViews": 107,
+    "nodeCount": 10,
+    "file": "Social-Media/13323-Cross-post-social-content-from-Google-Sheets-to-5.json"
+  },
   "7448": {
     "name": "Auto-generate LinkedIn content with Gemini AI: posts & images 24/7",
     "categories": [
@@ -76214,17 +77751,6 @@
     "nodeCount": 12,
     "file": "AI-Chatbot/9128-Autonomous-email-management-with-GPT-5-mini-human.json"
   },
-  "7545": {
-    "name": "Automate appointment phone reminders with Google Calendar and Retell AI",
-    "categories": [
-      "AI Chatbot",
-      "Multimodal AI"
-    ],
-    "author": "Nabin Bhandari",
-    "totalViews": 2035,
-    "nodeCount": 6,
-    "file": "AI-Chatbot/7545-Automate-appointment-phone-reminders-with-Google-C.json"
-  },
   "7842": {
     "name": "QuickBooks Online MCP Server (step by step video)",
     "categories": [
@@ -76399,16 +77925,6 @@
     "totalViews": 708,
     "nodeCount": 10,
     "file": "AI-Chatbot/7515-AI-powered-ServiceNow-chat-triage-with-GPT-4-Incid.json"
-  },
-  "8866": {
-    "name": "Voice-driven AI assistant using VAPI and GPT-4.1-mini with memory",
-    "categories": [
-      "AI Chatbot"
-    ],
-    "author": "Robert Breen",
-    "totalViews": 721,
-    "nodeCount": 7,
-    "file": "AI-Chatbot/8866-Voice-driven-AI-assistant-using-VAPI-and-GPT-4-1-m.json"
   },
   "7921": {
     "name": "Create smart Telegram reminders with GPT-4 mini and Airtable cancel codes",
@@ -76882,17 +78398,6 @@
     "nodeCount": 7,
     "file": "AI-Chatbot/8676-Automatically-reply-to-customer-emails-with-Airtab.json"
   },
-  "7958": {
-    "name": "Automated outbound calls: connect Ultravox AI agents to phone calls with Twilio",
-    "categories": [
-      "AI Chatbot",
-      "Multimodal AI"
-    ],
-    "author": "Davide",
-    "totalViews": 2376,
-    "nodeCount": 5,
-    "file": "AI-Chatbot/7958-Automated-outbound-calls-connect-Ultravox-AI-agent.json"
-  },
   "7786": {
     "name": "Manage Google Calendar events with GPT-4o virtual assistant (Orchestrator)",
     "categories": [
@@ -76957,6 +78462,125 @@
     "totalViews": 3850,
     "nodeCount": 24,
     "file": "AI-Chatbot/7663-Build-a-WhatsApp-assistant-with-memory-Google-Suit.json"
+  },
+  "3805": {
+    "name": "Connect Retell Voice Agents to custom functions",
+    "categories": [
+      "Support Chatbot",
+      "AI Chatbot"
+    ],
+    "author": "Agent Studio",
+    "totalViews": 3295,
+    "nodeCount": 4,
+    "file": "RetellAI.com/3805-Connect-Retell-Voice-Agents-to-custom-functions.json"
+  },
+  "3912": {
+    "name": "Automate lead qualification with RetellAI Phone Agent, OpenAI GPT & Google Sheet",
+    "categories": [
+      "Lead Generation",
+      "AI Chatbot"
+    ],
+    "author": "Dr. Firas",
+    "totalViews": 21556,
+    "nodeCount": 12,
+    "file": "RetellAI.com/3912-Automate-lead-qualification-with-RetellAI-Phone-Ag.json"
+  },
+  "8929": {
+    "name": "Automate lead qualification calls with Salesforce, Retell AI, and OpenAI analysis",
+    "categories": [
+      "Lead Nurturing",
+      "AI Chatbot"
+    ],
+    "author": "Sri Kolagani",
+    "totalViews": 906,
+    "nodeCount": 8,
+    "file": "RetellAI.com/8929-Automate-lead-qualification-calls-with-Salesforce.json"
+  },
+  "7545": {
+    "name": "Automate appointment phone reminders with Google Calendar and Retell AI",
+    "categories": [
+      "AI Chatbot",
+      "Multimodal AI"
+    ],
+    "author": "Nabin Bhandari",
+    "totalViews": 2035,
+    "nodeCount": 6,
+    "file": "RetellAI.com/7545-Automate-appointment-phone-reminders-with-Google-C.json"
+  },
+  "12856": {
+    "name": "Make outbound sales calls from Google Sheets using a Retell AI voice agent",
+    "categories": [
+      "Lead Nurturing",
+      "AI Chatbot"
+    ],
+    "author": "Marcus Taylor",
+    "totalViews": 30,
+    "nodeCount": 8,
+    "file": "RetellAI.com/12856-Make-outbound-sales-calls-from-Google-Sheets-using.json"
+  },
+  "3563": {
+    "name": "Build an AI powered phone agent \ud83d\udcde\ud83e\udd16 with Retell, Google Calendar and RAG",
+    "categories": [
+      "Support Chatbot",
+      "AI Chatbot"
+    ],
+    "author": "Davide",
+    "totalViews": 27260,
+    "nodeCount": 19,
+    "file": "RetellAI.com/3563-Build-an-AI-powered-phone-agent-with-Retell-Google.json"
+  },
+  "11463": {
+    "name": "Dental clinic appointment & admin system with Supabase, phone integration & AI",
+    "categories": [
+      "Support Chatbot",
+      "AI Chatbot"
+    ],
+    "author": "Optimum Office Solution",
+    "totalViews": 1008,
+    "nodeCount": 10,
+    "file": "RetellAI.com/11463-Dental-clinic-appointment-admin-system-with-Supaba.json"
+  },
+  "3385": {
+    "name": "Populate Retell dynamic variables with Google Sheets data for call handling",
+    "categories": [
+      "Support Chatbot"
+    ],
+    "author": "Agent Studio",
+    "totalViews": 1197,
+    "nodeCount": 4,
+    "file": "RetellAI.com/3385-Populate-Retell-dynamic-variables-with-Google-Shee.json"
+  },
+  "11269": {
+    "name": "Build enterprise RAG system with Google Gemini file search & retell AI voice",
+    "categories": [
+      "Internal Wiki",
+      "AI RAG"
+    ],
+    "author": "Sandeep Patharkar | www.FastTrackAiMastery.com",
+    "totalViews": 206,
+    "nodeCount": 12,
+    "file": "RetellAI.com/11269-Build-enterprise-RAG-system-with-Google-Gemini-fil.json"
+  },
+  "9850": {
+    "name": "Automated property & restaurant bookings with AI voice calls via Telegram",
+    "categories": [
+      "Personal Productivity",
+      "AI Chatbot"
+    ],
+    "author": "Juan Carlos Cavero Gracia",
+    "totalViews": 1199,
+    "nodeCount": 10,
+    "file": "RetellAI.com/9850-Automated-property-restaurant-bookings-with-AI-voi.json"
+  },
+  "3504": {
+    "name": "Store retell transcripts in Sheets, Airtable or Notion from webhook",
+    "categories": [
+      "Document Extraction"
+    ],
+    "author": "Agent Studio",
+    "totalViews": 2302,
+    "nodeCount": 7,
+    "file": "RetellAI.com/3504-Store-retell-transcripts-in-Sheets-Airtable-or-Not.json"
   },
   "11219": {
     "name": "Error monitor: AI-powered resolution [Context7, Supabase]",
@@ -77318,17 +78942,6 @@
     "nodeCount": 8,
     "file": "Support-Chatbot/3650-Auto-reply-to-FAQs-on-WhatsApp-using-Postgres-Modu.json"
   },
-  "5847": {
-    "name": "Build a restaurant voice assistant with VAPI and PostgreSQL for bookings & orders",
-    "categories": [
-      "Support Chatbot",
-      "AI Chatbot"
-    ],
-    "author": "Oneclick AI Squad",
-    "totalViews": 4105,
-    "nodeCount": 5,
-    "file": "Support-Chatbot/5847-Build-a-restaurant-voice-assistant-with-VAPI-and-P.json"
-  },
   "3859": {
     "name": "Ai customer support assistant \u00b7 WhatsApp ready \u00b7 works for any business",
     "categories": [
@@ -77633,17 +79246,6 @@
     "nodeCount": 6,
     "file": "Support-Chatbot/8060-Auto-summarize-Zoom-recordings-with-GPT-4-Slack-em.json"
   },
-  "6895": {
-    "name": "Book appointments with voice using VAPI & Cal.com",
-    "categories": [
-      "Support Chatbot",
-      "AI Chatbot"
-    ],
-    "author": "Nabin Bhandari",
-    "totalViews": 2696,
-    "nodeCount": 6,
-    "file": "Support-Chatbot/6895-Book-appointments-with-voice-using-VAPI-Cal-com.json"
-  },
   "4838": {
     "name": "WhatsApp group chat with your vector database \u2014 no Facebook Business required",
     "categories": [
@@ -77654,17 +79256,6 @@
     "totalViews": 1648,
     "nodeCount": 15,
     "file": "Support-Chatbot/4838-WhatsApp-group-chat-with-your-vector-database-no-F.json"
-  },
-  "3805": {
-    "name": "Connect Retell Voice Agents to custom functions",
-    "categories": [
-      "Support Chatbot",
-      "AI Chatbot"
-    ],
-    "author": "Agent Studio",
-    "totalViews": 3295,
-    "nodeCount": 4,
-    "file": "Support-Chatbot/3805-Connect-Retell-Voice-Agents-to-custom-functions.json"
   },
   "4046": {
     "name": "AI chatbot call center: Taxi service (Production-ready, part 3)",
@@ -78224,17 +79815,6 @@
     "nodeCount": 7,
     "file": "Support-Chatbot/3707-Automatic-WhatsApp-response-with-Groq-LLM-and-conv.json"
   },
-  "12956": {
-    "name": "Generate AI voice receptionists for local businesses with Claude, VAPI and Google Maps",
-    "categories": [
-      "Support Chatbot",
-      "AI Chatbot"
-    ],
-    "author": "Hugo Le Poole",
-    "totalViews": 3,
-    "nodeCount": 12,
-    "file": "Support-Chatbot/12956-Generate-AI-voice-receptionists-for-local-business.json"
-  },
   "8297": {
     "name": "Build a WhatsApp customer support bot with LangChain, OpenAI, and CRM integration",
     "categories": [
@@ -78516,17 +80096,6 @@
     "nodeCount": 9,
     "file": "Support-Chatbot/8238-Implement-intelligent-message-buffering-for-AI-cha.json"
   },
-  "3563": {
-    "name": "Build an AI powered phone agent \ud83d\udcde\ud83e\udd16 with Retell, Google Calendar and RAG",
-    "categories": [
-      "Support Chatbot",
-      "AI Chatbot"
-    ],
-    "author": "Davide",
-    "totalViews": 27260,
-    "nodeCount": 19,
-    "file": "Support-Chatbot/3563-Build-an-AI-powered-phone-agent-with-Retell-Google.json"
-  },
   "8074": {
     "name": "Create a customer support voice agent with GPT-5, ElevenLabs & calendar booking",
     "categories": [
@@ -78549,17 +80118,6 @@
     "nodeCount": 7,
     "file": "Support-Chatbot/6452-WhatsApp-support-assistant-with-GPT-4-Mini-Google.json"
   },
-  "8284": {
-    "name": "Create a WhatsApp voice assistant with Twilio, VAPI, Google Calendar & OpenAI",
-    "categories": [
-      "Support Chatbot",
-      "AI Chatbot"
-    ],
-    "author": "Nabin Bhandari",
-    "totalViews": 1164,
-    "nodeCount": 6,
-    "file": "Support-Chatbot/8284-Create-a-WhatsApp-voice-assistant-with-Twilio-VAPI.json"
-  },
   "2937": {
     "name": "Chat with your event schedule from Google Sheets in Telegram",
     "categories": [
@@ -78571,6 +80129,17 @@
     "nodeCount": 11,
     "file": "Support-Chatbot/2937-Chat-with-your-event-schedule-from-Google-Sheets-i.json"
   },
+  "13291": {
+    "name": "Build a WordPress RAG chatbot with OpenAI, Qdrant or MongoDB",
+    "categories": [
+      "Support Chatbot",
+      "AI Chatbot"
+    ],
+    "author": "Paolo Ronco",
+    "totalViews": 3,
+    "nodeCount": 20,
+    "file": "Support-Chatbot/13291-Build-a-WordPress-RAG-chatbot-with-OpenAI-Qdrant-o.json"
+  },
   "5310": {
     "name": "\ud83e\udd16 AI customer support agent - never sleep, never miss a customer again!",
     "categories": [
@@ -78581,17 +80150,6 @@
     "totalViews": 3860,
     "nodeCount": 10,
     "file": "Support-Chatbot/5310-AI-customer-support-agent-never-sleep-never-miss-a.json"
-  },
-  "11463": {
-    "name": "Dental clinic appointment & admin system with Supabase, phone integration & AI",
-    "categories": [
-      "Support Chatbot",
-      "AI Chatbot"
-    ],
-    "author": "Optimum Office Solution",
-    "totalViews": 1008,
-    "nodeCount": 10,
-    "file": "Support-Chatbot/11463-Dental-clinic-appointment-admin-system-with-Supaba.json"
   },
   "9366": {
     "name": "Automate medical appointments with ElevenLabs voice agent & Google Calendar",
@@ -78767,17 +80325,6 @@
     "totalViews": 132,
     "nodeCount": 7,
     "file": "Support-Chatbot/10237-Send-Rapiwa-WhatsApp-apology-reorder-link-when-Sho.json"
-  },
-  "12004": {
-    "name": "Restaurant GPT-4 receptionist for bookings & delivery using Vapi, Telegram, Airtable",
-    "categories": [
-      "Support Chatbot",
-      "AI Chatbot"
-    ],
-    "author": "Max",
-    "totalViews": 667,
-    "nodeCount": 18,
-    "file": "Support-Chatbot/12004-Restaurant-GPT-4-receptionist-for-bookings-deliver.json"
   },
   "2999": {
     "name": "\ud83d\udc36 AI agent for PetShop appointments (Agente de IA para agendamentos de PetShop)",
@@ -79007,17 +80554,6 @@
     "totalViews": 473,
     "nodeCount": 15,
     "file": "Support-Chatbot/4543-Smart-Customer-Support-System-with-GPT-4o-Gmail-Sl.json"
-  },
-  "10905": {
-    "name": "Voice appointment booking & confirmation system with Vapi, Gemini & Google Calendar",
-    "categories": [
-      "Support Chatbot",
-      "AI Chatbot"
-    ],
-    "author": "Habeeb Mohammed",
-    "totalViews": 1565,
-    "nodeCount": 8,
-    "file": "Support-Chatbot/10905-Voice-appointment-booking-confirmation-system-with.json"
   },
   "8376": {
     "name": "Customer support ticket system for SMEs with Google Sheets and auto-emails",
@@ -79434,17 +80970,6 @@
     "nodeCount": 9,
     "file": "Support-Chatbot/6135-AI-powered-reservation-reminder-calls-for-restaura.json"
   },
-  "12831": {
-    "name": "Book, manage, and check appointments using Vapi and Google Calendar",
-    "categories": [
-      "Support Chatbot",
-      "AI Chatbot"
-    ],
-    "author": "Johnpaul Nwagwu",
-    "totalViews": 14,
-    "nodeCount": 8,
-    "file": "Support-Chatbot/12831-Book-manage-and-check-appointments-using-Vapi-and.json"
-  },
   "1525": {
     "name": "Send a Whatsapp message via Twilio when a certain Onfleet event happens",
     "categories": [
@@ -79620,17 +81145,6 @@
     "nodeCount": 9,
     "file": "Support-Chatbot/11165-Create-an-AI-powered-Telegram-customer-support-bot.json"
   },
-  "7380": {
-    "name": "Automate order confirmations with VAPI Voice AI & timezone intelligence",
-    "categories": [
-      "Support Chatbot",
-      "Multimodal AI"
-    ],
-    "author": "Adnan Azhar",
-    "totalViews": 806,
-    "nodeCount": 7,
-    "file": "Support-Chatbot/7380-Automate-order-confirmations-with-VAPI-Voice-AI-ti.json"
-  },
   "6024": {
     "name": "Send chat message notifications from Tawk.to to Gmail",
     "categories": [
@@ -79716,17 +81230,6 @@
     "totalViews": 2214,
     "nodeCount": 12,
     "file": "Support-Chatbot/8779-Self-Improving-Email-AI-Support-with-Human-in-the.json"
-  },
-  "5466": {
-    "name": "Automated restaurant call handling & table booking system with VAPI and PostgreSQL",
-    "categories": [
-      "Support Chatbot",
-      "AI Chatbot"
-    ],
-    "author": "Oneclick AI Squad",
-    "totalViews": 6658,
-    "nodeCount": 4,
-    "file": "Support-Chatbot/5466-Automated-restaurant-call-handling-table-booking-s.json"
   },
   "3433": {
     "name": "Smart sales support chatbot with GPT-4o and Google Sheets",
@@ -79858,16 +81361,6 @@
     "totalViews": 4120,
     "nodeCount": 7,
     "file": "Support-Chatbot/5454-Automated-reservation-system-with-Telegram-Google.json"
-  },
-  "3385": {
-    "name": "Populate Retell dynamic variables with Google Sheets data for call handling",
-    "categories": [
-      "Support Chatbot"
-    ],
-    "author": "Agent Studio",
-    "totalViews": 1197,
-    "nodeCount": 4,
-    "file": "Support-Chatbot/3385-Populate-Retell-dynamic-variables-with-Google-Shee.json"
   },
   "6158": {
     "name": "Multi-language Telegram RAG chatbot with supervisor AI & automated Google Drive pipeline",
@@ -80187,6 +81680,17 @@
     "totalViews": 117329,
     "nodeCount": 13,
     "file": "Support-Chatbot/2466-Respond-to-WhatsApp-messages-with-AI-like-a-pro.json"
+  },
+  "13394": {
+    "name": "Build a Telegram AI chatbot with human takeover using Trilox and GPT-4o-mini",
+    "categories": [
+      "Support Chatbot",
+      "AI Chatbot"
+    ],
+    "author": "Trilox",
+    "totalViews": 116,
+    "nodeCount": 13,
+    "file": "Support-Chatbot/13394-Build-a-Telegram-AI-chatbot-with-human-takeover-us.json"
   },
   "12097": {
     "name": "Create an all-in-one Discord assistant with Gemini, Llama Vision & Flux images",
@@ -80571,17 +82075,6 @@
     "nodeCount": 7,
     "file": "Support-Chatbot/1934-Telegram-AI-chatbot.json"
   },
-  "3427": {
-    "name": "Automate call scheduling with Voice AI receptionist using Vapi, Google Calendar & Airtable",
-    "categories": [
-      "Support Chatbot",
-      "AI Chatbot"
-    ],
-    "author": "SuperAgent",
-    "totalViews": 44624,
-    "nodeCount": 9,
-    "file": "Support-Chatbot/3427-Automate-call-scheduling-with-Voice-AI-receptionis.json"
-  },
   "4696": {
     "name": "Conversational Telegram bot with GPT-5/GPT-4o for text and voice messages",
     "categories": [
@@ -80714,17 +82207,6 @@
     "nodeCount": 8,
     "file": "Support-Chatbot/8712-Two-factor-authentication-with-ClickSend-voice-cal.json"
   },
-  "8488": {
-    "name": "Voice AI customer support for WooCommerce using VAPI, GPT-4o & Gemini with RAG",
-    "categories": [
-      "Support Chatbot",
-      "AI RAG"
-    ],
-    "author": "Davide",
-    "totalViews": 1070,
-    "nodeCount": 15,
-    "file": "Support-Chatbot/8488-Voice-AI-customer-support-for-WooCommerce-using-VA.json"
-  },
   "3131": {
     "name": "Chatbot appointment scheduler with Google Calendar for dental assistant",
     "categories": [
@@ -80801,17 +82283,6 @@
     "totalViews": 528,
     "nodeCount": 7,
     "file": "Support-Chatbot/8826-Deploy-a-Google-Gemini-AI-assistant-on-WhatsApp-wi.json"
-  },
-  "8972": {
-    "name": "Automated voice appointment booking with Vapi AI and Google Calendar",
-    "categories": [
-      "Support Chatbot",
-      "AI Chatbot"
-    ],
-    "author": "Francisco Rivera",
-    "totalViews": 3440,
-    "nodeCount": 7,
-    "file": "Support-Chatbot/8972-Automated-voice-appointment-booking-with-Vapi-AI-a.json"
   },
   "8593": {
     "name": "Automate meeting scheduling through Telegram with Google Calendar & Notion CRM",
@@ -81247,6 +82718,17 @@
     "nodeCount": 14,
     "file": "Support-Chatbot/4365-Conversational-AI-Chatbot-with-Google-Gemini-for-T.json"
   },
+  "13354": {
+    "name": "Question and Answer AI Agent Chatbot [2/2]",
+    "categories": [
+      "Support Chatbot",
+      "AI RAG"
+    ],
+    "author": "Max Tkacz",
+    "totalViews": 403,
+    "nodeCount": 5,
+    "file": "Support-Chatbot/13354-Question-and-Answer-AI-Agent-Chatbot-2-2.json"
+  },
   "9931": {
     "name": "WhatsApp AI assistant for Google Calendar & Gmail management with Gemini/GPT",
     "categories": [
@@ -81430,16 +82912,16 @@
     "nodeCount": 8,
     "file": "Lead-Nurturing/10795-Pre-meeting-email-nurturing-sequence-with-Cal-com.json"
   },
-  "13114": {
-    "name": "Make outbound sales calls from Google Sheets using a VAPI voice agent",
+  "12719": {
+    "name": "Route and nurture financial services leads with OpenAI, Gmail and Google Sheets",
     "categories": [
       "Lead Nurturing",
-      "AI Chatbot"
+      "Multimodal AI"
     ],
-    "author": "Marcus Taylor",
-    "totalViews": 1,
-    "nodeCount": 8,
-    "file": "Lead-Nurturing/13114-Make-outbound-sales-calls-from-Google-Sheets-using.json"
+    "author": "David Olusola",
+    "totalViews": 14,
+    "nodeCount": 6,
+    "file": "Lead-Nurturing/12719-Route-and-nurture-financial-services-leads-with-Op.json"
   },
   "7929": {
     "name": "B2B outreach automation: LinkedIn to email sequence with GPT, AnyMailFinder & Perplexity",
@@ -81774,17 +83256,6 @@
     "nodeCount": 9,
     "file": "Lead-Nurturing/9967-Personalized-lead-response-with-AI-videos-using-Sc.json"
   },
-  "4940": {
-    "name": "Automated AI cold calling system with VAPI.ai, Airtable, and smart follow-ups",
-    "categories": [
-      "Lead Nurturing",
-      "AI Chatbot"
-    ],
-    "author": "Usman Liaqat",
-    "totalViews": 401,
-    "nodeCount": 8,
-    "file": "Lead-Nurturing/4940-Automated-AI-cold-calling-system-with-VAPI-ai-Airt.json"
-  },
   "11616": {
     "name": "Capture and nurture AI agency leads with Google Gemini, Outlook and Sheets",
     "categories": [
@@ -81796,17 +83267,6 @@
     "nodeCount": 12,
     "file": "Lead-Nurturing/11616-Capture-and-nurture-AI-agency-leads-with-Google-Ge.json"
   },
-  "6573": {
-    "name": "Auto-call new Typeform submissions with Vapi voice assistant",
-    "categories": [
-      "Lead Nurturing",
-      "AI Chatbot"
-    ],
-    "author": "Aitor | 1Node",
-    "totalViews": 514,
-    "nodeCount": 5,
-    "file": "Lead-Nurturing/6573-Auto-call-new-Typeform-submissions-with-Vapi-voice.json"
-  },
   "8884": {
     "name": "Generate personalized promotion emails with GPT-5 and Gmail context analysis",
     "categories": [
@@ -81817,17 +83277,6 @@
     "totalViews": 106,
     "nodeCount": 15,
     "file": "Lead-Nurturing/8884-Generate-personalized-promotion-emails-with-GPT-5.json"
-  },
-  "8929": {
-    "name": "Automate lead qualification calls with Salesforce, Retell AI, and OpenAI analysis",
-    "categories": [
-      "Lead Nurturing",
-      "AI Chatbot"
-    ],
-    "author": "Sri Kolagani",
-    "totalViews": 906,
-    "nodeCount": 8,
-    "file": "Lead-Nurturing/8929-Automate-lead-qualification-calls-with-Salesforce.json"
   },
   "5907": {
     "name": "Automate lead capture with AI personalized WhatsApp messages via Unipile & Google Sheets CRM",
@@ -81860,17 +83309,6 @@
     "totalViews": 242,
     "nodeCount": 16,
     "file": "Lead-Nurturing/9036-Automated-customer-onboarding-with-HubSpot-Gmail-a.json"
-  },
-  "9803": {
-    "name": "Automate lead qualification with AI voice calls using GPT-3.5, Notion and Vapi",
-    "categories": [
-      "Lead Nurturing",
-      "AI Chatbot"
-    ],
-    "author": "Summer",
-    "totalViews": 985,
-    "nodeCount": 9,
-    "file": "Lead-Nurturing/9803-Automate-lead-qualification-with-AI-voice-calls-us.json"
   },
   "6386": {
     "name": "Auto-follow-up for canceled Calendly meetings with GPT-4, Loom & Asana",
@@ -82011,6 +83449,17 @@
     "totalViews": 87,
     "nodeCount": 8,
     "file": "Lead-Nurturing/9096-Automatically-close-cold-HubSpot-deals-with-Gmail.json"
+  },
+  "11183": {
+    "name": "Re-engage stalled HubSpot deals with GPT-5-mini, Gmail, and Slack",
+    "categories": [
+      "Lead Nurturing",
+      "Multimodal AI"
+    ],
+    "author": "PollupAI",
+    "totalViews": 6,
+    "nodeCount": 11,
+    "file": "Lead-Nurturing/11183-Re-engage-stalled-HubSpot-deals-with-GPT-5-mini-Gm.json"
   },
   "10790": {
     "name": "Automated WhatsApp upsell messages for Shopify cancellations with Rapiwa & Sheet",
@@ -82171,17 +83620,6 @@
     "nodeCount": 14,
     "file": "Lead-Nurturing/11590-Automate-personalized-lead-responses-with-website.json"
   },
-  "12856": {
-    "name": "Make outbound sales calls from Google Sheets using a Retell AI voice agent",
-    "categories": [
-      "Lead Nurturing",
-      "AI Chatbot"
-    ],
-    "author": "Marcus Taylor",
-    "totalViews": 30,
-    "nodeCount": 8,
-    "file": "Lead-Nurturing/12856-Make-outbound-sales-calls-from-Google-Sheets-using.json"
-  },
   "9002": {
     "name": "Send WooCommerce new category alert via WhatsApp using Rapiwa API",
     "categories": [
@@ -82235,17 +83673,6 @@
     "totalViews": 330,
     "nodeCount": 11,
     "file": "Lead-Nurturing/10282-Automate-event-follow-ups-with-GPT-4-LinkedIn-HubS.json"
-  },
-  "6577": {
-    "name": "Automate outbound voice calls with Vapi from form submissions",
-    "categories": [
-      "Lead Nurturing",
-      "AI Chatbot"
-    ],
-    "author": "Aitor | 1Node",
-    "totalViews": 2242,
-    "nodeCount": 5,
-    "file": "Lead-Nurturing/6577-Automate-outbound-voice-calls-with-Vapi-from-form.json"
   },
   "6280": {
     "name": "Revive expired real estate listings with OpenAI and Gmail follow-ups",
@@ -82320,28 +83747,6 @@
     "totalViews": 21,
     "nodeCount": 7,
     "file": "Lead-Nurturing/12069-Recover-abandoned-onboarding-users-with-personaliz.json"
-  },
-  "8590": {
-    "name": "Automate lead qualification & follow-up with Gemini, HubSpot, Zoom & Mailchimp",
-    "categories": [
-      "Lead Nurturing",
-      "AI Chatbot"
-    ],
-    "author": "Ajay Yadav",
-    "totalViews": 541,
-    "nodeCount": 12,
-    "file": "Lead-Nurturing/8590-Automate-lead-qualification-follow-up-with-Gemini.json"
-  },
-  "3759": {
-    "name": "Automate AI phone booking & CRM updates with GPT-4, VAPI.ai, and GHL",
-    "categories": [
-      "Lead Nurturing",
-      "AI Chatbot"
-    ],
-    "author": "Sam Yassine",
-    "totalViews": 1543,
-    "nodeCount": 9,
-    "file": "Lead-Nurturing/3759-Automate-AI-phone-booking-CRM-updates-with-GPT-4-V.json"
   },
   "2823": {
     "name": "Social media analysis and automated email generation",
@@ -82590,17 +83995,6 @@
     "nodeCount": 22,
     "file": "Lead-Nurturing/10143-Create-personalized-email-outreach-with-AI-Telegra.json"
   },
-  "4152": {
-    "name": "Automate outbound sales calls to qualified leads with VAPI.ai and Google Sheets",
-    "categories": [
-      "Lead Nurturing",
-      "AI Chatbot"
-    ],
-    "author": "David Olusola",
-    "totalViews": 1817,
-    "nodeCount": 9,
-    "file": "Lead-Nurturing/4152-Automate-outbound-sales-calls-to-qualified-leads-w.json"
-  },
   "8199": {
     "name": "Automated meeting prep with GPT-5 & Gemini research from calendar to Slack via Attio CRM",
     "categories": [
@@ -82698,6 +84092,17 @@
     "nodeCount": 9,
     "file": "Lead-Nurturing/8968-Email-outreach-drafter-based-on-HubSpot-data.json"
   },
+  "13274": {
+    "name": "Send post-purchase email sequences with Postgres, Gmail and OpenAI",
+    "categories": [
+      "Lead Nurturing",
+      "AI Summarization"
+    ],
+    "author": "Avkash Kakdiya",
+    "totalViews": 3,
+    "nodeCount": 8,
+    "file": "Lead-Nurturing/13274-Send-post-purchase-email-sequences-with-Postgres-G.json"
+  },
   "11689": {
     "name": "Generate personalized deal content recommendations with Zoho CRM, GPT-4o-mini & Gmail",
     "categories": [
@@ -82763,6 +84168,17 @@
     "nodeCount": 8,
     "file": "Lead-Nurturing/9031-Automate-Shopify-abandoned-cart-WhatsApp-reminders.json"
   },
+  "13282": {
+    "name": "Generate research-backed cold email icebreakers with web scraping, OpenAI and Google Sheets",
+    "categories": [
+      "Lead Nurturing",
+      "AI Summarization"
+    ],
+    "author": "Pratyush Kumar Jha",
+    "totalViews": 49,
+    "nodeCount": 15,
+    "file": "Lead-Nurturing/13282-Generate-research-backed-cold-email-icebreakers-wi.json"
+  },
   "9243": {
     "name": "Personalize cold emails with LinkedIn data, GPT-4 & Airtable-Instantly",
     "categories": [
@@ -82807,16 +84223,15 @@
     "nodeCount": 19,
     "file": "Lead-Nurturing/8410-N8N-automated-Twitter-reply-bot-workflow.json"
   },
-  "5008": {
-    "name": "AI-Powered Cold Calling Automation with Vapi.ai, GPT-4o & Google Sheets",
+  "13029": {
+    "name": "Send LinkedIn outreach messages using Google Sheets and SourceGeek",
     "categories": [
-      "Lead Nurturing",
-      "AI Chatbot"
+      "Lead Nurturing"
     ],
-    "author": "Amit Mehta",
-    "totalViews": 1230,
-    "nodeCount": 11,
-    "file": "Lead-Nurturing/5008-AI-Powered-Cold-Calling-Automation-with-Vapi-ai-GP.json"
+    "author": "Niels Berkhout",
+    "totalViews": 21,
+    "nodeCount": 6,
+    "file": "Lead-Nurturing/13029-Send-LinkedIn-outreach-messages-using-Google-Sheet.json"
   },
   "4508": {
     "name": "Multi-platform AI sales agent with RAG, CRM logging & appointment booking",
@@ -82977,17 +84392,6 @@
     "totalViews": 1393,
     "nodeCount": 8,
     "file": "Lead-Nurturing/6098-Generate-personalized-cold-outreach-emails-with-Ap.json"
-  },
-  "5890": {
-    "name": "Automate restaurant marketing & booking with Excel, VAPI voice agent & calendar",
-    "categories": [
-      "Lead Nurturing",
-      "AI Chatbot"
-    ],
-    "author": "Oneclick AI Squad",
-    "totalViews": 8181,
-    "nodeCount": 10,
-    "file": "Lead-Nurturing/5890-Automate-restaurant-marketing-booking-with-Excel-V.json"
   },
   "6656": {
     "name": "Automate lead qualification & customer support with GPT-4o-mini agents",
@@ -83431,17 +84835,6 @@
     "nodeCount": 9,
     "file": "Lead-Nurturing/9431-Automate-lead-qualification-personalized-outreach.json"
   },
-  "12526": {
-    "name": "Automate outbound AI sales calls with double-dial using Airtable and Vapi AI",
-    "categories": [
-      "Lead Nurturing",
-      "AI Chatbot"
-    ],
-    "author": "zahir khan",
-    "totalViews": 169,
-    "nodeCount": 8,
-    "file": "Lead-Nurturing/12526-Automate-outbound-AI-sales-calls-with-double-dial.json"
-  },
   "11238": {
     "name": "Create an AI shopping assistant on Telegram with GPT-4.1, voice recognition & Google Sheets",
     "categories": [
@@ -83580,17 +84973,6 @@
     "nodeCount": 6,
     "file": "Lead-Nurturing/6596-WhatsApp-outbound-messaging-with-Baserow-WasenderA.json"
   },
-  "8339": {
-    "name": "Replace your call center with an AI agent using GoHighLevel (GHL), VAPI & Twilio",
-    "categories": [
-      "Lead Nurturing",
-      "AI Chatbot"
-    ],
-    "author": "\u021augui Drago\u0219",
-    "totalViews": 456,
-    "nodeCount": 8,
-    "file": "Lead-Nurturing/8339-Replace-your-call-center-with-an-AI-agent-using-Go.json"
-  },
   "4790": {
     "name": "Personalized CrunchBase lead outreach with AI-generated summaries and Gmail",
     "categories": [
@@ -83655,17 +85037,6 @@
     "totalViews": 2621,
     "nodeCount": 6,
     "file": "Lead-Nurturing/6909-Multi-agent-cold-email-campaign-generator-with-O3.json"
-  },
-  "6630": {
-    "name": "Automate real estate marketing with Llama AI, VAPI calls & Gmail campaigns",
-    "categories": [
-      "Lead Nurturing",
-      "Multimodal AI"
-    ],
-    "author": "Oneclick AI Squad",
-    "totalViews": 1667,
-    "nodeCount": 11,
-    "file": "Lead-Nurturing/6630-Automate-real-estate-marketing-with-Llama-AI-VAPI.json"
   },
   "10699": {
     "name": "Automate service package recommendations with Google Workspace sales pipeline tracking",
@@ -84241,28 +85612,6 @@
     "nodeCount": 9,
     "file": "Lead-Nurturing/12876-Score-Zoho-support-tickets-with-OpenAI-and-sync-up.json"
   },
-  "6695": {
-    "name": "Trigger outbound Vapi AI voice calls from new Jotform submissions",
-    "categories": [
-      "Lead Nurturing",
-      "AI Chatbot"
-    ],
-    "author": "Aitor | 1Node",
-    "totalViews": 1106,
-    "nodeCount": 6,
-    "file": "Lead-Nurturing/6695-Trigger-outbound-Vapi-AI-voice-calls-from-new-Jotf.json"
-  },
-  "6088": {
-    "name": "Automate outbound voice calls from Go High Level opportunities with Vapi",
-    "categories": [
-      "Lead Nurturing",
-      "AI Chatbot"
-    ],
-    "author": "Aitor | 1Node",
-    "totalViews": 1634,
-    "nodeCount": 6,
-    "file": "Lead-Nurturing/6088-Automate-outbound-voice-calls-from-Go-High-Level-o.json"
-  },
   "12915": {
     "name": "Manage LinkedIn outreach sequences with Linked API and Google Sheets",
     "categories": [
@@ -84401,17 +85750,6 @@
     "totalViews": 4,
     "nodeCount": 11,
     "file": "Lead-Nurturing/12745-Nurture-landscaping-leads-and-book-calls-with-GoHi.json"
-  },
-  "13220": {
-    "name": "Handle WhatsApp sales queries with GPT-4, Supabase, and a product catalog",
-    "categories": [
-      "Lead Nurturing",
-      "AI Chatbot"
-    ],
-    "author": "Shadrack",
-    "totalViews": 0,
-    "nodeCount": 18,
-    "file": "Lead-Nurturing/13220-Handle-WhatsApp-sales-queries-with-GPT-4-Supabase.json"
   },
   "8684": {
     "name": "Google Sheets send SMS with Twilio - bulk SMS automation simplified!",
@@ -84811,17 +86149,6 @@
     "nodeCount": 11,
     "file": "Lead-Nurturing/2833-Smart-email-outreach-sequence-AI-powered-customiza.json"
   },
-  "4031": {
-    "name": "Cold outreach automation: Scrape local leads with Dumpling AI & call via Vapi",
-    "categories": [
-      "Lead Nurturing",
-      "AI Chatbot"
-    ],
-    "author": "Yang",
-    "totalViews": 8492,
-    "nodeCount": 7,
-    "file": "Lead-Nurturing/4031-Cold-outreach-automation-Scrape-local-leads-with-D.json"
-  },
   "3415": {
     "name": "Abandoned cart recovery for Shopify via Gmail, Google Sheets & Twilio (no-code)",
     "categories": [
@@ -85195,17 +86522,6 @@
     "nodeCount": 6,
     "file": "HR/8528-Automate-HR-candidate-shortlisting-with-Sheets-Gma.json"
   },
-  "5790": {
-    "name": "Automated HR screening with VAPI AI calls, Gemini analysis & Google Sheets",
-    "categories": [
-      "HR",
-      "AI Summarization"
-    ],
-    "author": "Agentick AI",
-    "totalViews": 2485,
-    "nodeCount": 8,
-    "file": "HR/5790-Automated-HR-screening-with-VAPI-AI-calls-Gemini-a.json"
-  },
   "9878": {
     "name": "Resume intelligence and data mining using Decodo with GPT-4o-mini",
     "categories": [
@@ -85423,17 +86739,6 @@
     "totalViews": 18763,
     "nodeCount": 9,
     "file": "HR/2416-Cv-resume-PDF-parsing-with-multimodal-vision-AI.json"
-  },
-  "7401": {
-    "name": "Automated phone interview evaluation with Vapi, GPT-4o & Google Sheets",
-    "categories": [
-      "HR",
-      "Multimodal AI"
-    ],
-    "author": "Robert Breen",
-    "totalViews": 1596,
-    "nodeCount": 7,
-    "file": "HR/7401-Automated-phone-interview-evaluation-with-Vapi-GPT.json"
   },
   "9764": {
     "name": "Fast-track CV screening with AI analysis from Gmail to Slack and Google Sheets",
@@ -85759,6 +87064,16 @@
     "nodeCount": 5,
     "file": "HR/6566-Automate-daily-interview-schedule-delivery-from-Go.json"
   },
+  "13278": {
+    "name": "Generate and track offer letters with Google Sheets, Docs, Drive and Gmail",
+    "categories": [
+      "HR"
+    ],
+    "author": "Avkash Kakdiya",
+    "totalViews": 2,
+    "nodeCount": 10,
+    "file": "HR/13278-Generate-and-track-offer-letters-with-Google-Sheet.json"
+  },
   "12017": {
     "name": "Prevent employee burnout with AI analysis of Slack and tasks data to Google Sheets",
     "categories": [
@@ -86074,6 +87389,17 @@
     "nodeCount": 16,
     "file": "HR/8775-Parse-evaluate-HR-candidates-with-GPT-4-1-and-Link.json"
   },
+  "13321": {
+    "name": "Screen and score job candidates with GPT-4o, Gmail and Google Calendar",
+    "categories": [
+      "HR",
+      "AI Summarization"
+    ],
+    "author": "Cheng Siong Chin",
+    "totalViews": 4,
+    "nodeCount": 11,
+    "file": "HR/13321-Screen-and-score-job-candidates-with-GPT-4o-Gmail.json"
+  },
   "11125": {
     "name": "Weekly job discovery and CV matching with Gemini 1.5 Pro and Decodo Scraper",
     "categories": [
@@ -86213,6 +87539,17 @@
     "totalViews": 296,
     "nodeCount": 10,
     "file": "HR/10650-Generate-and-email-PDF-payslips-from-Google-Sheets.json"
+  },
+  "13352": {
+    "name": "Orchestrate AI-driven hiring analytics and candidate assessment with GPT-4, Claude, Google Sheets, Gmail and Slack",
+    "categories": [
+      "HR",
+      "AI RAG"
+    ],
+    "author": "Cheng Siong Chin",
+    "totalViews": 28,
+    "nodeCount": 13,
+    "file": "HR/13352-Orchestrate-AI-driven-hiring-analytics-and-candida.json"
   },
   "10105": {
     "name": "Automate performance review process with Google Sheets, Calendar, Email & Slack",
@@ -86601,6 +87938,17 @@
     "totalViews": 171,
     "nodeCount": 13,
     "file": "HR/11816-Automated-CV-anonymization-for-GDPR-compliance-wit.json"
+  },
+  "13241": {
+    "name": "Generate HR offer letters and contracts with GPT-4.1-mini and Google Docs",
+    "categories": [
+      "HR",
+      "Multimodal AI"
+    ],
+    "author": "isaWOW",
+    "totalViews": 12,
+    "nodeCount": 10,
+    "file": "HR/13241-Generate-HR-offer-letters-and-contracts-with-GPT-4.json"
   },
   "4230": {
     "name": "Automate job search and matching with Adzuna API, GPT-3.5, and Google Sheets",

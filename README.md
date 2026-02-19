@@ -33,11 +33,19 @@ python scripts/search.py search "chatbot" --category AI --rows 20 --page 2
 python scripts/search.py search "automation" --json
 python scripts/search.py search "automation" --ids --save
 
-# Download workflow by ID
-python scripts/download.py 5428
+# Download workflows
+python scripts/download.py 5428                              # Single ID
+python scripts/download.py 5428 6332 6162                    # Multiple IDs
+python scripts/download.py "https://n8n.io/workflows/5428"   # From n8n.io URL
+python scripts/download.py --file workflow-ids.txt           # Batch from file
+python scripts/download.py --split 5428                      # Download and split
 
-# Download and split into chunks
-python scripts/download.py --split 5428
+# Crawl & download ALL workflows (with checkpoint/resume)
+python scripts/crawl.py                    # Resume or start full crawl
+python scripts/crawl.py --rediscover       # Re-check API for new workflows
+python scripts/crawl.py --dry-run          # Show plan without downloading
+python scripts/crawl.py --fresh            # Start over, ignore checkpoint
+python scripts/crawl.py --max-downloads 50 # Limit count (for testing)
 
 # Split existing workflow files
 python scripts/split.py

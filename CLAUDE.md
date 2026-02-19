@@ -15,13 +15,29 @@ pip install -r scripts/requirements.txt
 
 # Search workflows
 python scripts/search.py search "query"
-python scripts/search.py categories
-python scripts/search.py collections
-python scripts/search.py collection 8
+python scripts/search.py search "chatbot" --category AI --rows 20 --page 2
+python scripts/search.py search "automation" --json        # Output as JSON
+python scripts/search.py search "automation" --ids --save  # Save IDs to file
+python scripts/search.py categories                        # List all categories
+python scripts/search.py collections                       # List curated collections
+python scripts/search.py collection 8                      # Collection details
+python scripts/search.py stats                             # API statistics
 
 # Download workflows
-python scripts/download.py 5428
-python scripts/download.py --split 5428
+python scripts/download.py 5428                              # Single ID
+python scripts/download.py 5428 6332 6162                    # Multiple IDs
+python scripts/download.py "https://n8n.io/workflows/5428"   # From URL
+python scripts/download.py --file workflow-ids.txt           # Batch from file
+python scripts/download.py --split 5428                      # Download and split
+
+# Crawl all workflows (download everything missing)
+python scripts/crawl.py                         # Resume or start full crawl
+python scripts/crawl.py --fresh                 # Start over, ignore checkpoint
+python scripts/crawl.py --rediscover            # Re-check API for new workflows
+python scripts/crawl.py --dry-run               # Show plan without downloading
+python scripts/crawl.py --max-downloads 50      # Limit count (for testing)
+python scripts/crawl.py --delay-min 2 --delay-max 6  # Custom delay range
+python scripts/crawl.py --split                 # Run split.py on each download
 
 # Split existing workflows
 python scripts/split.py
@@ -89,6 +105,9 @@ while read id; do mv n8n-workflows/${id}-*.json topic_folder/workflows/ 2>/dev/n
 n8n API → search.py → download.py → split.py → [analysis skill] → [consolidation skill]
                 ↓           ↓            ↓              ↓                  ↓
          search_results/  n8n-workflows/  (split folders)  analysis/   docs/consolidated-solution.md
+
+n8n API → crawl.py → n8n-workflows/{Category}/*.json + index.json
+           (discovers all IDs via pagination, downloads missing, checkpoint/resume)
 ```
 
 ### Directory Structure
