@@ -25,13 +25,8 @@ search_results/*
 !search_results/sample-*
 
 # -------------------------------------------
-# n8n-workflows/ - Downloaded workflows (re-downloadable)
-# Keep: README and sample-* files
+# n8n-workflows/ - Downloaded workflows (tracked)
 # -------------------------------------------
-n8n-workflows/*
-!n8n-workflows/README_n8n-workflows.md
-!n8n-workflows/sample-*
-!n8n-workflows/sample-*/
 
 # -------------------------------------------
 # analysis/ - Generated analysis reports
